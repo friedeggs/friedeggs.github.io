@@ -1,0 +1,267 @@
+/*.p-share a {
+  opacity: 1;
+  transition: opacity 0.05s ease;
+}*/
+
+article.single .body img {
+  padding-left: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  display: inline-block;
+  /*height: 280px;
+  width: 320px;*/
+
+  height: 210px;
+  width: 240px;
+
+  /*width: 40%;*/
+}
+
+@media (max-width: 705px) {
+  article.single .body img {
+    margin: auto;
+    display: block;
+    height: 210px;
+    width: 240px;
+    /*height: 280px;
+    width: 320px;*/
+  }
+}
+
+/*@media (min-width: 1200px) {
+  .col-md-8 {
+    width: 66.666667%;
+  }
+}*/
+
+.p-share {
+  cursor: default;
+}
+
+.p-share a {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.p-share a:hover {
+  opacity: 1;
+  /*transition: opacity 0.05s ease;*/
+}
+
+.summary a:not(:first-child) {
+  color: blue;
+  position: relative;
+}
+
+.summary a:not(:first-child):hover:after, .summary a:not(:first-child):focus:after {
+  width: 100%;
+}
+
+.summary a:not(:first-child):after {
+  /*text-decoration: underline;*/
+  display: inline-block;
+  content: "";
+  height: 1px;
+  width: 0%;
+  background-color: #222;
+  transition: width 0.2s ease;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/*article.grid {
+  display: flex;
+}
+
+article.grid a:first-child {
+  background-color: red;
+  display:inline-block;
+    width:100%;
+    height:100%;
+    clear: both;
+    align-items: stretch;
+
+}*/
+
+/*a.grid {
+  display: inline-block;
+}
+
+article.grid:hover {
+  cursor: pointer;
+}*/
+
+.image-header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  color: white;
+  margin-bottom: 30px;
+}
+.image-header h1 {
+  padding: 20px 0px 0px 40px;
+}
+
+.grid, .hoverfy {
+  transition: border-left 0.1s ease;
+  /*border-left: solid 1px #e8e8e8;*/
+}
+
+.grid:hover, .hoverfy:hover {
+  border-left: solid 3px #424242;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /*font-family: "Dinmittelschrift";*/
+  /*color: #b0bec5;*/
+}
+
+.heading h3 {
+  font-family: "Dinmittelschrift";
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.slick-slide {
+  height: 250px;
+  float: none;
+  width: 100%;
+}
+
+.slick-slide img {
+  /*display: inline;*/
+  float: right;
+}
+
+.header-container {
+  /*margin-bottom: 70px;*/
+  margin-bottom: 40px;
+}
+
+.header-box {
+  position: relative;
+}
+.header-box h2 {
+  top: 10px;
+  left: 20px;
+  padding: 10px 20px 0 20px;
+  position: absolute;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.header-box img {
+  position: relative;
+  z-index: 0;
+  display: inline;
+  width: 33%;
+}
+
+.showcase {
+  position: relative;
+  /*background-image: url(https://s-media-cache-ak0.pinimg.com/564x/0d/c6/20/0dc6206258f9d391b76c685d844b2efa.jpg);*/
+  background-image: url(../images/mountains-and-clouds.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  text-align: center;
+  font-family: 'Dinmittelschrift';
+  color: white;
+  margin-bottom: 30px;
+}
+
+.header-text {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 40px;
+  float: left;
+  text-align: left;
+}
+.header-text h2 {
+  margin: 0px;
+}
+.header-text h3 {
+  margin-left: 140px;
+}
+
+.header-caption {
+  position: absolute;
+  bottom: 0px;
+  /*left: 340px;*/
+  /*float: left;*/
+  width: 100%;
+  text-align: middle;
+}
+.header-caption h6 {
+  margin: 0px;
+}
+
+.trapezium {
+  border-left: 30px solid transparent;
+  border-bottom: 36px solid #111;
+}
+
+.showcase {
+  position: relative;
+  background-color: transparent;
+}
+
+.showcase-link {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 300px;
+  min-width: 200px;
+  line-height: 40px;
+  color: white;
+  font-family: "Dinmittelschrift";
+  text-transform: uppercase;
+  padding: 0 20px;
+}
+.showcase-link a {
+  color: white;
+}
+.showcase-link:hover {
+  border-bottom-color: #333;
+  text-decoration: underline;
+}
+
+/* Override Parts:article:li */
+article.li {
+  margin-bottom: 1rem;
+  font-family: "Roboto";
+}
+
+article.li .image {
+  float: left;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+article.li footer {
+  display: table-cell;
+  height: 2.5rem;
+  vertical-align: middle;
+  padding-left: .5rem;
+}
+
+article.li .date {
+  font-size: .7rem;
+}
+
+article.li .title {
+  font-size: 1rem;
+  line-height: 1rem;
+  /*font-weight: 700;*/
+}
+
+.nothing-here {
+  background-image: url(../images/calvin-hobbes-looking-at-the-stars-pics-401976.jpg);
+  /*background-image: url(http://www.desktopimages.org/pictures/2016/0119/1/calvin-hobbes-looking-at-the-stars-pics-401976.jpg);*/
+  height: 500px;
+  // width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  filter: grayscale(100%);
+  filter: blur(50px);
+}

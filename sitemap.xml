@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://friedeggs.github.io/</loc>
+    <lastmod>2016-08-28T11:37:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://friedeggs.github.io/post/good-to-great/</loc>
+    <lastmod>2016-08-28T11:37:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://friedeggs.github.io/project/2016-06-02-face-alignment/</loc>
+    <lastmod>2016-06-02T20:20:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://friedeggs.github.io/project/2016-04-10-web-learnathon/</loc>
+    <lastmod>2016-04-10T20:20:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://friedeggs.github.io/project/fork-of-caffe/</loc>
+    <lastmod>2015-12-24T20:20:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://friedeggs.github.io/about/</loc>
+  </url>
+  
+</urlset>
