@@ -262,6 +262,4 @@ article.li .title {
   // width: 100%;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  filter: grayscale(100%);
-  filter: blur(50px);
 }
