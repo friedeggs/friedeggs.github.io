@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>frieda rong </title>
-    <link>https://friedeggs.github.io/post/</link>
+    <link>http://hiddenfallacy.com/post/</link>
     <language>en-us</language>
     <author>Frieda Rong</author>
     <rights>(C) 2016</rights>
-    <updated>2016-08-28 11:37:35 -0400 EDT</updated>
+    <updated>2015-08-28 11:37:35 -0400 EDT</updated>
 
     
       
         <item>
-          <title>Good to Great</title>
-          <link>https://friedeggs.github.io/post/good-to-great/</link>
-          <pubDate>Sun, 28 Aug 2016 11:37:35 EDT</pubDate>
+          <title>Sample Post</title>
+          <link>http://hiddenfallacy.com/post/good-to-great-copy/</link>
+          <pubDate>Fri, 28 Aug 2015 11:37:35 EDT</pubDate>
           <author>Frieda Rong</author>
-          <guid>https://friedeggs.github.io/post/good-to-great/</guid>
-          <description>&lt;p&gt;asg
-I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+          <guid>http://hiddenfallacy.com/post/good-to-great-copy/</guid>
+          <description>&lt;p&gt;This is an example post.&lt;/p&gt;
 </description>
         </item>
       
