@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>frieda rong </title>
-    <link>http://hiddenfallacy.com/post/</link>
+    <link>https://friedeggs.github.io/post/</link>
     <language>en-us</language>
     <author>Frieda Rong</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Sample Post</title>
-          <link>http://hiddenfallacy.com/post/good-to-great-copy/</link>
+          <link>https://friedeggs.github.io/post/good-to-great-copy/</link>
           <pubDate>Fri, 28 Aug 2015 11:37:35 EDT</pubDate>
           <author>Frieda Rong</author>
-          <guid>http://hiddenfallacy.com/post/good-to-great-copy/</guid>
+          <guid>https://friedeggs.github.io/post/good-to-great-copy/</guid>
           <description>&lt;p&gt;This is an example post.&lt;/p&gt;
 </description>
         </item>
