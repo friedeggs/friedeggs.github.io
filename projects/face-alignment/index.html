@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<meta name="google-site-verification" content="9yWYzR3zrcUA5_TpbUIV5nmFZa5yrMys4k_-qwggL1o" />
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.61.0" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABb0lEQVQ4jV2SvW8TQRDFf2+zjSUi
+uSItNpUFSOH/F9ASJan5uBJobCm4cBdzj2Jm99Y56e5WszNv3rx52mzfGgzADGAjgPaVltsZpILV
+bqHGr2DPBFDeRhV2HlSggDOn/UtrJkCoIwfCnDge3mDZztV2BDTUuR3Ux+lEMk8UjCmt90UDwBk3
+C7hYwKMx1F714lmv10jieDwuOjQ22UaI6k7VPQGb9+8+cHv7kbu7r3z/8Y3T6QQmNtDXIOogeBdB
+EqvVit1ux2azZZp+8vnLJ6ZpusiWiC00kGAqpLhUEbVWrq9fUa+uerHRqMG460XP5+czv3/94fHx
+noeHe57+PmVe24uYbfRmu7XnlCZ3ZMzN6xtKKRwOB87/zr3opeQVh8lwUDcgw36/x6m0mtDKYQcm
+pW9c6sFFhxSDEuvLUSUNDCBmkRY7l8GWjtEiJ70puntrt6vd53P3+mjBxBtGEFCHtMEJHQlKQZfR
+HDpc9R81s7lOC+aG5gAAAABJRU5ErkJggg==" rel="icon" type="image/x-icon" />
+<meta name="color-scheme" content="light only">
+<meta name="supported-color-schemes" content="light only">
+
+
+  
+  
+    <title>Face Alignment Using Regression Trees &ndash; frieda rong</title>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/core.min.117dc4984e2088c8d6ee61b9d57175cc6fd54ac50493bb7aa9d7369febb9cede7bfd0ad53978d7cc6fe3f635bae4986a.css" integrity="sha384-EX3EmE4giMjW7mG51XF1zG/VSsUEk7t6qdc2n&#43;u5zt57/QrVOXjXzG/j9jW65Jhq">
+
+	
+	<link rel="stylesheet" href="/css/custom.min.52c9a191e6531c57d97b0381cc906428d93825131993449842ddf01b1fdbc6a8d792dd6d9bc43f6fd0029b45ebc7e279.css" integrity="sha384-UsmhkeZTHFfZewOBzJBkKNk4JRMZk0SYQt3wGx/bxqjXkt1tm8Q/b9ACm0Xrx&#43;J5">
+    <body><section id="header" class="header">
+  <div class="nav-bar">
+    <a class="site-name" href="/">
+      
+        frieda rong
+      
+    </a>
+
+  </div>
+</section><div class="main">
+      
+        
+        <div id="content">
+  
+  
+
+  <section class="article-header" >
+      <h1>Face Alignment Using Regression Trees</h1>
+      <p class="article-date">2016-06-02</p>
+  </section>
+
+  <article class="markdown-body" >
+    <p>An implementation of Kazemi et al.&lsquo;s <em>One Millisecond Face Alignment With An Ensemble of Regression Trees</em>.</p>
+<p>Results so far:</p>
+<p>The detector starts with a mean face shape (shown in black) and outputs a predicted face shape (shown in white). These images were not in the training set.</p>
+<p><img src="/images/result1.png" alt="Result 1" style="padding-left: 20px;
+padding-bottom: 20px;
+margin: auto;
+display: inline-block;
+height: 210px;
+width: 240px;"/>
+<img src="/images/result2.png" alt="Result 2" style="padding-left: 20px;
+padding-bottom: 20px;
+margin: auto;
+display: inline-block;
+height: 210px;
+width: 240px;"/>
+<img src="/images/result3.png" alt="Result 3" style="padding-left: 20px;
+padding-bottom: 20px;
+margin: auto;
+display: inline-block;
+height: 210px;
+width: 240px;"/>
+<img src="/images/result4.png" alt="Result 4" style="padding-left: 20px;
+padding-bottom: 20px;
+margin: auto;
+display: inline-block;
+height: 210px;
+width: 240px;"/></p>
+<p>The pairs chosen for the node splits over all regression trees:</p>
+<p><img src="/images/visualization.jpg" alt="visualization" style="padding-left: 20px;
+padding-bottom: 20px;
+margin: auto;
+display: inline-block;
+height: 210px;
+width: 240px;"/></p>
+<p>Pairs from an earlier detector mapped onto a face:</p>
+<p><img src="/images/early_visualization.jpg" alt="early visualization" style="padding-left: 20px;
+padding-bottom: 20px;
+margin: auto;
+display: inline-block;
+height: 210px;
+width: 240px;"/></p>
+  </article>
+
+  
+  
+
+  
+
+  
+
+  
+
+
+        </div><section id="footer" class="footer max-body-width">
+  
+  
+  <p>© 2019</p>
+  <div id="footer-credits">
+    <a>site credits</a>
+    <p>
+      generated using <a href="https://gohugo.io">Hugo</a>
+      <br>
+      base theme by <a href="https://themes.gohugo.io/hugo-notepadium/">Notepadium</a>
+    </p>
+  </div>
+</section>
+
+
+
+
+</div>
+    </body>
+</html>

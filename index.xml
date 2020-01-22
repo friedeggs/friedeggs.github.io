@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frieda rong</title>
+    <link>http://friedeggs.github.io/</link>
+    <description>Recent content on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="http://friedeggs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syncflowy</title>
+      <link>http://friedeggs.github.io/projects/syncflowy/</link>
+      <pubDate>Sun, 05 Jan 2020 17:29:02 -0500</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergrad</title>
+      <link>http://friedeggs.github.io/undergrad/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://friedeggs.github.io/undergrad/</guid>
+      <description>&amp;gt; undergrad I studied computer science and math at the University of Waterloo from Fall 2015 to Fall 2019. Here are some (unpolished) things I made during this time.
+notes live-LaTeXed course notes
+ pmath351 - real analysis - Nico Spronk co471 - semidefinite optimization - Levent Tuncel  personal projects  terminal-jellies: implementation of Jelly no Puzzle variant with 3 custom levels syncflowy: prototype of a centralized workflowy + Google Docs crossover for collaborative nested list editing based on operational transform facial keypoint detection (github): implementation of One Millisecond Face Alignment with an Ensemble of Regression Trees (CVPR 2014) learning to compress neural networks in Caffe: handles fully connected layers only  </description>
+    </item>
+    
+    <item>
+      <title>Face Alignment Using Regression Trees</title>
+      <link>http://friedeggs.github.io/projects/face-alignment/</link>
+      <pubDate>Thu, 02 Jun 2016 20:20:35 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/face-alignment/</guid>
+      <description>&lt;p&gt;An implementation of Kazemi et al.&amp;lsquo;s &lt;em&gt;One Millisecond Face Alignment With An Ensemble of Regression Trees&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
