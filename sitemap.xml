@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/</loc>
-    <lastmod>2020-01-05T17:29:02-05:00</lastmod>
+    <loc>/posts/applying-to-grad-school/</loc>
+    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/syncflowy/</loc>
-    <lastmod>2020-01-05T17:29:02-05:00</lastmod>
+    <loc>/tags/brief-note/</loc>
+    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/work-in-progress/</loc>
+    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2020-10-02T03:12:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/sample-publication-2/</loc>
+    <lastmod>2020-10-02T03:12:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/sample-publication/</loc>
+    <lastmod>2020-10-02T03:11:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/</loc>
+    <lastmod>2020-10-01T19:14:50-04:00</lastmod>
   </url>
   
   <url>
@@ -23,16 +58,22 @@
   </url>
   
   <url>
+    <loc>/projects/</loc>
+    <lastmod>2017-01-14T17:29:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/syncflowy/</loc>
+    <lastmod>2017-01-14T17:29:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/projects/face-alignment/</loc>
     <lastmod>2016-06-02T20:20:35-04:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

@@ -6,18 +6,41 @@
     <description>Recent content on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019</copyright>
-    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
-    
-	<atom:link href="http://friedeggs.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>© 2019-2020</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="http://friedeggs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Few Words on Applying to Grad School</title>
+      <link>http://friedeggs.github.io/posts/applying-to-grad-school/</link>
+      <pubDate>Sun, 04 Oct 2020 19:11:10 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/posts/applying-to-grad-school/</guid>
+      <description>&lt;p&gt;Many people have already written sage advice for applying to graduate school. If you&amp;rsquo;re looking for some pointers, here&amp;rsquo;s a good place to start: &lt;a href=&#34;https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html&#34; target=&#34;_blank&#34;&gt;Grad School Resources by Kalpesh Krishna&lt;/a&gt; (linked to from &lt;a href=&#34;https://cs.stanford.edu/~nfliu/&#34; target=&#34;_blank&#34;&gt;Nelson Liu&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/&#34; target=&#34;_blank&#34;&gt;Student Perspectives on Applying to NLP PhD Programs&lt;/a&gt;). There&amp;rsquo;s also a scrappy list of related links &lt;a href=&#34;https://dynalist.io/d/kA2h39HOsn9w2UrPBtRmRUdO#z=5nvv6ENvPGqhAErSt37A4_fL&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; from my &lt;a href=&#34;http://friedeggs.github.io/resources&#34;&gt;&amp;ldquo;Resources&amp;rdquo;&lt;/a&gt; page.&lt;/p&gt;</description>
+    </item>
     
     <item>
-      <title>Syncflowy</title>
-      <link>http://friedeggs.github.io/projects/syncflowy/</link>
-      <pubDate>Sun, 05 Jan 2020 17:29:02 -0500</pubDate>
+      <title>The Enduring Presence of Mr. Brightside In Your Life Like All the Time Everywhere You Go</title>
+      <link>http://friedeggs.github.io/publications/sample-publication-2/</link>
+      <pubDate>Fri, 02 Oct 2020 03:12:33 -0400</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
+      <guid>http://friedeggs.github.io/publications/sample-publication-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Certified Awesomeness of Working Code</title>
+      <link>http://friedeggs.github.io/publications/sample-publication/</link>
+      <pubDate>Fri, 02 Oct 2020 03:11:05 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/sample-publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://friedeggs.github.io/resources/</link>
+      <pubDate>Thu, 01 Oct 2020 19:14:50 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/resources/</guid>
       <description></description>
     </item>
     
@@ -27,9 +50,16 @@
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
       <guid>http://friedeggs.github.io/undergrad/</guid>
-      <description>&amp;gt; undergrad I studied computer science and math at the University of Waterloo from Fall 2015 to Fall 2019. Here are some (unpolished) things I made during this time.
-notes live-LaTeXed course notes
- pmath351 - real analysis - Nico Spronk co471 - semidefinite optimization - Levent Tuncel  personal projects  terminal-jellies: implementation of Jelly no Puzzle variant with 3 custom levels syncflowy: prototype of a centralized workflowy + Google Docs crossover for collaborative nested list editing based on operational transform facial keypoint detection (github): implementation of One Millisecond Face Alignment with an Ensemble of Regression Trees (CVPR 2014) learning to compress neural networks in Caffe: handles fully connected layers only  </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syncflowy</title>
+      <link>http://friedeggs.github.io/projects/syncflowy/</link>
+      <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -38,7 +68,7 @@ notes live-LaTeXed course notes
       <pubDate>Thu, 02 Jun 2016 20:20:35 -0400</pubDate>
       
       <guid>http://friedeggs.github.io/projects/face-alignment/</guid>
-      <description>&lt;p&gt;An implementation of Kazemi et al.&amp;lsquo;s &lt;em&gt;One Millisecond Face Alignment With An Ensemble of Regression Trees&lt;/em&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;An implementation of Kazemi et al.&amp;rsquo;s &lt;em&gt;One Millisecond Face Alignment With An Ensemble of Regression Trees&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

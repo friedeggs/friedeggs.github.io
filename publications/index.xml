@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on frieda rong</title>
+    <link>http://friedeggs.github.io/publications/</link>
+    <description>Recent content in Publications on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-2020</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 03:12:33 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Enduring Presence of Mr. Brightside In Your Life Like All the Time Everywhere You Go</title>
+      <link>http://friedeggs.github.io/publications/sample-publication-2/</link>
+      <pubDate>Fri, 02 Oct 2020 03:12:33 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/sample-publication-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Certified Awesomeness of Working Code</title>
+      <link>http://friedeggs.github.io/publications/sample-publication/</link>
+      <pubDate>Fri, 02 Oct 2020 03:11:05 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/sample-publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,25 @@
     <description>Recent content in Tags on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019</copyright>
+    <copyright>© 2019-2020</copyright>
+    <lastBuildDate>Sun, 04 Oct 2020 19:11:10 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>brief-note</title>
+      <link>http://friedeggs.github.io/tags/brief-note/</link>
+      <pubDate>Sun, 04 Oct 2020 19:11:10 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/brief-note/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="http://friedeggs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>work-in-progress</title>
+      <link>http://friedeggs.github.io/tags/work-in-progress/</link>
+      <pubDate>Sun, 04 Oct 2020 19:11:10 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/work-in-progress/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

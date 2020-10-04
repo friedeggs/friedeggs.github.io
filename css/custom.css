@@ -57,7 +57,7 @@ samp {
 }
 
 .note-title {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 400;
   color: #333;
 }
@@ -70,6 +70,7 @@ samp {
 .note:hover,
 .note:focus,
 .note:active {
+  /*transition: all 0.1s ease;*/
   opacity: 0.5;
   text-decoration: none;
 }
@@ -110,7 +111,7 @@ a:active {
 }
 
 #content {
-  margin: 5px 5px 50px 5px;
+  margin: 5px 5px 70px 5px;
 }
 
 body {
@@ -186,6 +187,29 @@ body {
   width: 100%;
 }
 
+/** Fancy gradient **/
+
+/*.site-name {
+  background: -webkit-linear-gradient(0deg,#005ae0, #0793b3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.site-name:before {
+  background: -webkit-linear-gradient(0deg,#005ae0, #0793b3);
+}*/
+
+
+/*.site-name {
+  background: #005ae0;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.site-name:before {
+  background: #005ae0 !important;
+}*/
+
 /* overridden styles */
 
 .markdown-body, .article-discussion {
@@ -193,23 +217,6 @@ body {
   line-height: 1.5em;*/
   font-size: 15px;
   line-height: 22px;
-}
-
-.pagination ul li a {
-  color: #0366d6;
-  float: left;
-  padding: 4px 12px;
-  text-decoration: none;
-  /*filter: grayscale(100%);*/
-}
-
-.pagination ul li a.active {
-  background-color: #0366d6;
-  color: #fff;
-}
-
-.pagination ul li a:hover:not(.active) {
-  background-color: #def;
 }
 
 .note-list {
@@ -239,21 +246,189 @@ body {
   line-height: 1.8;
 }
 
-#title-page a > img {
+.social-link-row > a > img {
   margin-right: 5px;
   width: 22px;
+  position: relative;
+  top: 4px;
 }
 
-#title-page a > img:hover {
-  /*filter: grayscale(100%);*/
-  opacity: 0.5;
+/*.social-link-row > a > img:hover {
+  filter: grayscale(0%);
+  opacity: 1.0;
+}*/
+
+/** colour -> faded **/
+/*.social-link-row > a:hover {
   transition: all 0.1s ease;
+  opacity: 0.5;
 }
+
+#mail-link:before {
+  position: relative;
+  top: 5px;
+  background-image: url(../mail.svg);
+  background-size: 40px 40px;
+  display: inline-block;
+  width: 25px;
+  height: 20px;
+  content: "";
+}*/
+
+/*filter: grayscale(100%);*/
+
+
+/** colour -> faded v2: monotone color **/
+/*.social-link-row > a {
+  color: #000;
+  filter: brightness(0) saturate(100%) invert(25%) sepia(96%) saturate(1564%) hue-rotate(196deg) brightness(100%) contrast(101%);
+}
+
+.social-link-row > a:hover {
+  transition: all 0.1s ease;
+  opacity: 0.6;
+}*/
+
+
+/** colour -> faded v3: mail link working **/
+/*.social-link-row > a {
+  color: #000;
+  filter: brightness(0) saturate(100%) invert(25%) sepia(96%) saturate(1564%) hue-rotate(196deg) brightness(100%) contrast(101%);
+}*/
+/* transition underline https://stackoverflow.com/a/30352626 */
+/*.social-link-row > a {
+  border-bottom: 1px solid transparent;
+}*/
+/*transition: all 0.1s ease;*/
+
+.social-link-row > a:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+#mail-link:before {
+  position: relative;
+  top: 5px;
+  background-image: url(../mail.svg);
+  background-size: 40px 40px;
+  display: inline-block;
+  width: 25px;
+  height: 20px;
+  content: "";
+}
+
+/*.mail-link {
+  position: relative;
+  top: 5px;
+  background-image: url(../mail.svg);
+  background-size: 40px 40px;
+  display: inline-block;
+  width: 25px;
+  height: 20px;
+}*/
+
+/** faded -> black **/
+
+/*.social-link-row > a > img {
+  opacity: .3;
+}
+
+.social-link-row > a:hover {
+  transition: all 0.1s ease;
+  filter: grayscale(0%);
+  opacity: 1.0 !important;
+}
+
+.social-link-row > a > img:hover {
+  transition: all 0.1s ease;
+  filter: grayscale(0%);
+  opacity: 1.0 !important;
+}
+
+#mail-link:before {
+  position: relative;
+  top: 5px;
+  opacity: .5;
+  background-image: url(../mail.svg);
+  background-size: 40px 40px;
+  display: inline-block;
+  width: 25px;
+  height: 20px;
+  content: "";
+}
+
+#mail-link:hover:before {
+  transition: all 0.1s ease;
+  opacity: 1.0;
+}*/
+
+/** faded -> colour (blue) v2 **/
+
+/*.social-link-row > a > img {
+  opacity: .5;
+}
+
+.social-link-row > a:hover {
+  transition: all 0.1s ease;
+  filter: brightness(0) saturate(100%) invert(25%) sepia(96%) saturate(1564%) hue-rotate(196deg) brightness(100%) contrast(101%);
+  opacity: 1.0 !important;
+}
+
+.social-link-row > a > img:hover {
+  transition: all 0.1s ease;
+  filter: grayscale(0%);
+  opacity: 1.0 !important;
+}
+
+#mail-link:before {
+  position: relative;
+  top: 5px;
+  opacity: .5;
+  background-image: url(../mail.svg);
+  background-size: 40px 40px;
+  display: inline-block;
+  width: 25px;
+  height: 20px;
+  content: "";
+}
+
+#mail-link:hover:before {
+  transition: all 0.1s ease;
+  opacity: 1.0;
+}*/
+
+
+
+/** colour -> faded v2: monotone color **/
+/*
+.social-link-row > a {
+  color: #000;
+  filter: brightness(0) saturate(100%) invert(25%) sepia(96%) saturate(1564%) hue-rotate(196deg) brightness(100%) contrast(101%);
+  opacity: 0.75;
+}
+
+.social-link-row > a:hover {
+  transition: all 0.1s ease;
+  filter: grayscale(0%);
+  opacity: 1.0;
+}
+*/
+/*#github-icon {
+  opacity: 0.3;
+}
+
+#github-icon:hover {
+  transition: all 0.1s ease;
+  opacity: 1;
+}*/
 
 .note-date, .article-date {
   color: #777;
-  font-size: 14px;
   margin: 0;
+}
+
+.article-date {
+  font-size: 14px;
 }
 
 .note-title {
