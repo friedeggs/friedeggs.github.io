@@ -1,6 +1,0 @@
-Latexmk: Run number 1 of rule 'pdflatex'
-'applying-to-grad-school.fls' and '/Users/frieda/Documents/coding/personal_website/content/posts/applying-to-grad-school.fls' are identical (not copied) at /Library/TeX/texbin/latexmk line 7074.
-Failure to make '/Users/frieda/Documents/coding/personal_website/content/posts/applying-to-grad-school.pdf'
-Collected error summary (may duplicate other messages):
-  pdflatex: Command for 'pdflatex' gave return code 1
-      Refer to '/Users/frieda/Documents/coding/personal_website/content/posts/applying-to-grad-school.log' for details

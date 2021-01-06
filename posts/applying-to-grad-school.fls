@@ -1,6 +1,0 @@
-PWD /Users/frieda/Documents/coding/personal_website/content/posts
-INPUT /usr/local/texlive/2018/texmf.cnf
-INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/frieda/Documents/coding/personal_website/content/posts/applying-to-grad-school.md
-OUTPUT /Users/frieda/Documents/coding/personal_website/content/posts/applying-to-grad-school.log
