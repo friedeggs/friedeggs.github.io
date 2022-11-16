@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hci on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/hci/</link>
+    <description>Recent content in hci on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-2022</copyright>
+    <lastBuildDate>Tue, 17 May 2022 22:19:54 -0700</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>amble: feed your creative curiosities</title>
+      <link>http://friedeggs.github.io/projects/amble/</link>
+      <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/amble/</guid>
+      <description>&lt;p&gt;Our course project for &lt;a href=&#34;https://hci.stanford.edu/courses/cs147/2022/wi/index.html&#34; target=&#34;_blank&#34;&gt;CS147: Intro to Human-Computer Interaction&lt;/a&gt; with &lt;a href=&#34;https://www.landay.org/&#34; target=&#34;_blank&#34;&gt;James Landay&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

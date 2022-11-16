@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reasoning on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/reasoning/</link>
+    <description>Recent content in reasoning on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-2022</copyright>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
+      <link>http://friedeggs.github.io/publications/big-bench/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/big-bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Opportunities and Risks of Foundation Models</title>
+      <link>http://friedeggs.github.io/publications/foundation-models/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/foundation-models/</guid>
+      <description>Please cite using these guidelines.
+endpreamble</description>
+    </item>
+    
+    <item>
+      <title>Extrapolating to Unnatural Language Processing with GPT-3&#39;s In-context Learning: The Good, the Bad, and the Mysterious</title>
+      <link>http://friedeggs.github.io/publications/in-context-learning/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/in-context-learning/</guid>
+      <description>Please cite using this Google Scholar citation.
+endpreamble</description>
+    </item>
+    
+  </channel>
+</rss>

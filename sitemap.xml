@@ -3,48 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/service/</loc>
+    <lastmod>2022-11-15T18:53:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/updates/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academia/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cartoons/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/big-bench/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reasoning/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/amble/</loc>
+    <lastmod>2022-05-17T22:19:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apps/</loc>
+    <lastmod>2022-05-17T22:19:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hci/</loc>
+    <lastmod>2022-05-17T22:19:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2022-05-17T22:19:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/current-condition/</loc>
+    <lastmod>2022-05-17T18:36:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/foundation-models/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vision/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/in-context-learning/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/journal-entries/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/the-snow-house/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/geosim/</loc>
+    <lastmod>2021-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/simulation/</loc>
+    <lastmod>2021-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/applying-to-grad-school/</loc>
     <lastmod>2020-10-04T19:11:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/brief-note/</loc>
-    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/work-in-progress/</loc>
-    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2020-10-02T03:12:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/sample-publication-2/</loc>
-    <lastmod>2020-10-02T03:12:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/sample-publication/</loc>
-    <lastmod>2020-10-02T03:11:05-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/resources/</loc>
     <lastmod>2020-10-01T19:14:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/games/</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/terminal-jellies/</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,13 +148,18 @@
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>/projects/syncflowy/</loc>
     <lastmod>2017-01-14T17:29:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/syncflowy/</loc>
+    <loc>/tags/systems/</loc>
     <lastmod>2017-01-14T17:29:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/caffe-compression/</loc>
+    <lastmod>2016-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>

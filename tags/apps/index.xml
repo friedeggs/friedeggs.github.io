@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apps on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/apps/</link>
+    <description>Recent content in apps on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-2022</copyright>
+    <lastBuildDate>Tue, 17 May 2022 22:19:54 -0700</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>amble: feed your creative curiosities</title>
+      <link>http://friedeggs.github.io/projects/amble/</link>
+      <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/amble/</guid>
+      <description>&lt;p&gt;Our course project for &lt;a href=&#34;https://hci.stanford.edu/courses/cs147/2022/wi/index.html&#34; target=&#34;_blank&#34;&gt;CS147: Intro to Human-Computer Interaction&lt;/a&gt; with &lt;a href=&#34;https://www.landay.org/&#34; target=&#34;_blank&#34;&gt;James Landay&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>syncflowy: a synergistic cross between Google Docs and Workflowy</title>
+      <link>http://friedeggs.github.io/projects/syncflowy/</link>
+      <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
+      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

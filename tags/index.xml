@@ -6,23 +6,113 @@
     <description>Recent content in Tags on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2020</copyright>
-    <lastBuildDate>Sun, 04 Oct 2020 19:11:10 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019-2022</copyright>
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>brief-note</title>
-      <link>http://friedeggs.github.io/tags/brief-note/</link>
-      <pubDate>Sun, 04 Oct 2020 19:11:10 -0400</pubDate>
+      <title>academia</title>
+      <link>http://friedeggs.github.io/tags/academia/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/brief-note/</guid>
+      <guid>http://friedeggs.github.io/tags/academia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>work-in-progress</title>
-      <link>http://friedeggs.github.io/tags/work-in-progress/</link>
-      <pubDate>Sun, 04 Oct 2020 19:11:10 -0400</pubDate>
+      <title>cartoons</title>
+      <link>http://friedeggs.github.io/tags/cartoons/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/work-in-progress/</guid>
+      <guid>http://friedeggs.github.io/tags/cartoons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ai</title>
+      <link>http://friedeggs.github.io/tags/ai/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>http://friedeggs.github.io/tags/nlp/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reasoning</title>
+      <link>http://friedeggs.github.io/tags/reasoning/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>http://friedeggs.github.io/tags/apps/</link>
+      <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hci</title>
+      <link>http://friedeggs.github.io/tags/hci/</link>
+      <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vision</title>
+      <link>http://friedeggs.github.io/tags/vision/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journal-entries</title>
+      <link>http://friedeggs.github.io/tags/journal-entries/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/journal-entries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>http://friedeggs.github.io/tags/simulation/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>http://friedeggs.github.io/tags/games/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systems</title>
+      <link>http://friedeggs.github.io/tags/systems/</link>
+      <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/systems/</guid>
       <description></description>
     </item>
     

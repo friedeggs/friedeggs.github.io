@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>systems on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/systems/</link>
+    <description>Recent content in systems on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-2022</copyright>
+    <lastBuildDate>Sat, 14 Jan 2017 17:29:02 -0500</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>syncflowy: a synergistic cross between Google Docs and Workflowy</title>
+      <link>http://friedeggs.github.io/projects/syncflowy/</link>
+      <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
+      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning to compress neural networks in Caffe</title>
+      <link>http://friedeggs.github.io/projects/caffe-compression/</link>
+      <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/projects/caffe-compression/</guid>
+      <description>&lt;p&gt;A fork of the C++ deep learning framework &lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34;&gt;Caffe&lt;/a&gt; that adds a &lt;code&gt;compress&lt;/code&gt; command which roughly implements the NIPS 2015 paper &lt;a href=&#34;https://arxiv.org/pdf/1506.02626.pdf&#34; target=&#34;_blank&#34;&gt;Learning both Weights and Connections for Efficient Neural Networks&lt;/a&gt; by Han et al. Handles fully connected layers only.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
