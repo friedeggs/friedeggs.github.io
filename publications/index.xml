@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holistic Evaluation of Language Models</title>
+      <link>http://friedeggs.github.io/publications/benchmarking/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/benchmarking/</guid>
+      <description>†: lead authors
+*: major contributors  endpreamble</description>
+    </item>
+    
     <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
       <link>http://friedeggs.github.io/publications/big-bench/</link>

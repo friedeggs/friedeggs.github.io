@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/service/</loc>
-    <lastmod>2022-11-15T18:53:03-08:00</lastmod>
+    <loc>/tags/ai/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/benchmarking/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reasoning/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,32 +53,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publications/big-bench/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nlp/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/reasoning/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
