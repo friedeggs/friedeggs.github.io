@@ -85,6 +85,7 @@ samp {
 .article-tag:focus,
 .article-tag:active {
   background-color: #def;
+  /*background-color: #c0e3bf;*/
   text-decoration: none;
   /*opacity: 1.;*/
 }
@@ -311,6 +312,12 @@ body {
   width: 22px;
   position: relative;
   top: 4px;
+  /*filter: hue-rotate(-190deg);*/
+}
+
+.social-link > img:hover {
+  /*filter: none;*/
+  /*filter: sepia(58%);*/
 }
 
 .social-link {
@@ -333,7 +340,8 @@ body {
   content: " ➝ see more";
   transition: all 0.1s ease;
   opacity: 1.0;
-  color: #0366d6;
+  /*color: #0366d6;*/
+  /*color: #095e06;*/
 }
 
 .section-header > a::after {
