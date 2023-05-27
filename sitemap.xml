@@ -3,67 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/service/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/ai/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/helm/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <loc>/tags/cogsci/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nlp/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <loc>/papers/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <loc>/tags/psychology/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/reasoning/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <loc>/papers/attachment-agents/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rl/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/papers/learning-progress/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/education/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/games/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ml/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reasoning/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/papers/halie/</loc>
+    <lastmod>2022-12-19T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hci/</loc>
+    <lastmod>2022-12-19T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2022-12-19T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/math/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/mathai-2022/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/papers/helm/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/updates/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/academia/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cartoons/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/big-bench/</loc>
+    <loc>/papers/big-bench/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/amble/</loc>
+    <loc>/code/amble/</loc>
     <lastmod>2022-05-17T22:19:54-07:00</lastmod>
   </url>
   
@@ -73,12 +123,7 @@
   </url>
   
   <url>
-    <loc>/tags/hci/</loc>
-    <lastmod>2022-05-17T22:19:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
+    <loc>/code/</loc>
     <lastmod>2022-05-17T22:19:54-07:00</lastmod>
   </url>
   
@@ -88,37 +133,77 @@
   </url>
   
   <url>
-    <loc>/publications/foundation-models/</loc>
-    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+    <loc>/talks/behavior-feedback/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/vision/</loc>
-    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/journal-entries/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/the-snow-house/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/geosim/</loc>
-    <lastmod>2021-01-16T00:00:00+00:00</lastmod>
+    <loc>/tags/robotics/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/simulation/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vision/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academia/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/art/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cartoons/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/art/the-snow-house/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/mathai4ed-2021/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/papers/foundation-models/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/papers/geosim/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/applying-to-grad-school/</loc>
+    <loc>/tags/graphics/</loc>
+    <lastmod>2021-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/applying-to-grad-school/</loc>
+    <lastmod>2020-10-04T19:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
     <lastmod>2020-10-04T19:11:10-04:00</lastmod>
   </url>
   
@@ -128,13 +213,53 @@
   </url>
   
   <url>
-    <loc>/tags/games/</loc>
+    <loc>/talks/differentiable-rendering-overview/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/ddpm-review/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/journal/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/terminal-jellies/</loc>
+    <loc>/code/terminal-jellies/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/uber-2020/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/intro-to-statistics/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/variational-autoencoders/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/co-ura-2019/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,22 +273,37 @@
   </url>
   
   <url>
-    <loc>/projects/syncflowy/</loc>
-    <lastmod>2017-01-14T17:29:02-05:00</lastmod>
+    <loc>/work/uber-2018/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/petuum-2018/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/systems/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/siri-nl-2017/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/code/syncflowy/</loc>
     <lastmod>2017-01-14T17:29:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/caffe-compression/</loc>
+    <loc>/code/caffe-compression/</loc>
     <lastmod>2016-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/face-alignment/</loc>
+    <loc>/code/face-alignment/</loc>
     <lastmod>2016-06-02T20:20:35-04:00</lastmod>
   </url>
   

@@ -6,52 +6,83 @@
     <description>Recent content on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
+    <copyright>© 2019–2023</copyright>
     <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="http://friedeggs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Service</title>
-      <link>http://friedeggs.github.io/service/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Reinforcement Learning Models of Tradeoffs Between Infant Attachment and Curiosity</title>
+      <link>http://friedeggs.github.io/papers/attachment-agents/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/service/</guid>
-      <description>&amp;gt; service I am fortunate to have served as a reviewer for the following workshops:
- NeurIPS 2022 MATH-AI Workshop (partially reviewed) NeurIPS 2021 MATHAI4ED Workshop  Check them out!</description>
+      <guid>http://friedeggs.github.io/papers/attachment-agents/</guid>
+      <description>Member abstract at CogSci 2023.</description>
+    </item>
+    
+    <item>
+      <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
+      <link>http://friedeggs.github.io/papers/learning-progress/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
+      <description>Demo paper at EDM 2023.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://friedeggs.github.io/about/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/about/</guid>
+      <description>I am a 🇨🇳🇨🇦 Chinese-Canadian studying in the 🇺🇸🌠 United States. When I am free, I like to ☯️ do tai chi.
+  🎓 I did my undergrad at the University of Waterloo.
+  My friend and I sometimes organized events.
+  You can find me online at:     rongf@cs.stanford.edu
+Thanks for stopping by my corner of the internet! (＾▽＾) ✧˖° Here are some old resources.</description>
+    </item>
+    
+    <item>
+      <title>Evaluating Human-Language Model Interaction</title>
+      <link>http://friedeggs.github.io/papers/halie/</link>
+      <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/halie/</guid>
+      <description>Preprint</description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2022 MATH-AI Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai-2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai-2022/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Holistic Evaluation of Language Models</title>
-      <link>http://friedeggs.github.io/publications/helm/</link>
+      <link>http://friedeggs.github.io/papers/helm/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/helm/</guid>
+      <guid>http://friedeggs.github.io/papers/helm/</guid>
       <description>†: lead authors
-*: major contributors  endpreamble</description>
-    </item>
-    
-    <item>
-      <title>🚧 Updates After Two Years of Grad School 🚧</title>
-      <link>http://friedeggs.github.io/posts/updates/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/posts/updates/</guid>
-      <description>Updates after the first two years of grad school incoming 💖</description>
+*: major contributors  endpreamble
+Preprint</description>
     </item>
     
     <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
-      <link>http://friedeggs.github.io/publications/big-bench/</link>
+      <link>http://friedeggs.github.io/papers/big-bench/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/big-bench/</guid>
+      <guid>http://friedeggs.github.io/papers/big-bench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>amble: feed your creative curiosities</title>
-      <link>http://friedeggs.github.io/projects/amble/</link>
+      <link>http://friedeggs.github.io/code/amble/</link>
       <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/amble/</guid>
+      <guid>http://friedeggs.github.io/code/amble/</guid>
       <description>&lt;p&gt;Our course project for &lt;a href=&#34;https://hci.stanford.edu/courses/cs147/2022/wi/index.html&#34; target=&#34;_blank&#34;&gt;CS147: Intro to Human-Computer Interaction&lt;/a&gt; with &lt;a href=&#34;https://www.landay.org/&#34; target=&#34;_blank&#34;&gt;James Landay&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
@@ -61,45 +92,61 @@
       <pubDate>Tue, 17 May 2022 18:36:10 -0700</pubDate>
       
       <guid>http://friedeggs.github.io/current-condition/</guid>
+      <description>--   • thinking of • Toronto, Ontario, Canada  </description>
+    </item>
+    
+    <item>
+      <title>BEHAVIOR feedback: a benchmark for social perception</title>
+      <link>http://friedeggs.github.io/talks/behavior-feedback/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/behavior-feedback/</guid>
+      <description>&lt;p&gt;A project pitch for how smart agents can interact with us to better understand our goals in household activities by learning individual and cultural diversity.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Snow House</title>
+      <link>http://friedeggs.github.io/art/the-snow-house/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/art/the-snow-house/</guid>
+      <description>&lt;p&gt;What it&amp;rsquo;s like to draw a connection in grad school.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Opportunities and Risks of Foundation Models</title>
-      <link>http://friedeggs.github.io/publications/foundation-models/</link>
+      <link>http://friedeggs.github.io/papers/foundation-models/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/foundation-models/</guid>
+      <guid>http://friedeggs.github.io/papers/foundation-models/</guid>
       <description>Please cite using these guidelines.
 endpreamble</description>
     </item>
     
     <item>
-      <title>The Snow House</title>
-      <link>http://friedeggs.github.io/posts/the-snow-house/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/posts/the-snow-house/</guid>
-      <description>&lt;h6 id=&#34;preface&#34;&gt;Preface&lt;/h6&gt;
-&lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;I wrote this story around April 2021 for my parents while trying to communicate my PhD struggles. It’s heavily simplified with a naive worldview* and was mostly meant to illustrate how drawing a connection can be a hard thing in and of itself + elicit discussion on why one would want to go to the effort to draw such a connection&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving</title>
-      <link>http://friedeggs.github.io/publications/geosim/</link>
+      <link>http://friedeggs.github.io/papers/geosim/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/geosim/</guid>
+      <guid>http://friedeggs.github.io/papers/geosim/</guid>
       <description>Best Paper Candidate at CVPR 2021</description>
     </item>
     
     <item>
       <title>A Few Words on Applying to Grad School</title>
-      <link>http://friedeggs.github.io/posts/applying-to-grad-school/</link>
+      <link>http://friedeggs.github.io/blog/applying-to-grad-school/</link>
       <pubDate>Sun, 04 Oct 2020 19:11:10 -0400</pubDate>
       
-      <guid>http://friedeggs.github.io/posts/applying-to-grad-school/</guid>
+      <guid>http://friedeggs.github.io/blog/applying-to-grad-school/</guid>
       <description>&lt;p&gt;Many people have already written sage advice for applying to graduate school. If you&amp;rsquo;re looking for some pointers, here&amp;rsquo;s a good place to start: &lt;a href=&#34;https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html&#34; target=&#34;_blank&#34;&gt;Grad School Resources by Kalpesh Krishna&lt;/a&gt; (linked to from &lt;a href=&#34;https://cs.stanford.edu/~nfliu/&#34; target=&#34;_blank&#34;&gt;Nelson Liu&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/&#34; target=&#34;_blank&#34;&gt;Student Perspectives on Applying to NLP PhD Programs&lt;/a&gt;). There&amp;rsquo;s also a scrappy list of related links &lt;a href=&#34;https://dynalist.io/d/kA2h39HOsn9w2UrPBtRmRUdO#z=5nvv6ENvPGqhAErSt37A4_fL&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; from my &lt;a href=&#34;http://friedeggs.github.io/resources&#34;&gt;&amp;ldquo;Resources&amp;rdquo;&lt;/a&gt; page.&lt;/p&gt;</description>
     </item>
     
@@ -113,11 +160,29 @@ endpreamble</description>
     </item>
     
     <item>
+      <title>Differentiable Rendering: Overview</title>
+      <link>http://friedeggs.github.io/talks/differentiable-rendering-overview/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/differentiable-rendering-overview/</guid>
+      <description>&lt;p&gt;A survey talk based on section 2 from this &lt;a target=&#34;_blank&#34; href=&#34;https://arxiv.org/abs/2006.12057&#34;&gt;survey paper&lt;/a&gt; on Differentiable Rendering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion) paper review</title>
+      <link>http://friedeggs.github.io/talks/ddpm-review/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/ddpm-review/</guid>
+      <description>&lt;p&gt;As graciously explained to me by one of the authors, &lt;a target=&#34;_blank&#34; href=&#34;https://www.ajayjain.net&#34;&gt;Ajay Jain&lt;/a&gt;. (Any errors are mine!)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>terminal-jellies: Jellies, in your terminal</title>
-      <link>http://friedeggs.github.io/projects/terminal-jellies/</link>
+      <link>http://friedeggs.github.io/code/terminal-jellies/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/terminal-jellies/</guid>
+      <guid>http://friedeggs.github.io/code/terminal-jellies/</guid>
       <description>&lt;figure&gt;
     &lt;a href=&#34;https://asciinema.org/a/DHQp9turdBHvzhLTkCFOif74x&#34;&gt;&lt;img src=&#39;http://friedeggs.github.io/files/demo.gif&#39; alt=&#39;demo&#39; width=&#34;60%&#34; height=&#34;60%&#34;/&gt;&lt;/a&gt;
     &lt;figcaption&gt;Demo with example levels loaded&lt;/figcaption&gt;
@@ -128,7 +193,47 @@ endpreamble</description>
 &lt;/figure&gt;
 &lt;h6 id=&#34;2022-05-18-review&#34;&gt;2022-05-18 review&lt;/h6&gt;
 &lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;I made this in the winter of 2019, inspired by &lt;a href=&#34;https://github.com/zxqfl/jellies&#34; target=&#34;_blank&#34;&gt;Jellies&lt;/a&gt; (in turn based off of &lt;a href=&#34;https://qrostar.skr.jp/en/jelly/&#34; target=&#34;_blank&#34;&gt;Jelly no Puzzle&lt;/a&gt;) and other cutesy puzzle games I&amp;rsquo;d stumble across back then, like &lt;a href=&#34;https://web.archive.org/web/20190909085700/http://marblespuzzle.com/&#34; target=&#34;_blank&#34;&gt;marblesgame&lt;/a&gt;, to make a clone of the former.&lt;/p&gt;</description>
+&lt;p&gt;Made in the winter of 2019, inspired by the &lt;a href=&#34;https://github.com/zxqfl/jellies&#34; target=&#34;_blank&#34;&gt;Jellies&lt;/a&gt; puzzle game.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uber ATG Research Scientist</title>
+      <link>http://friedeggs.github.io/work/uber-2020/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2020/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Demonstrated a data-driven pipeline for the photorealistic video simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Statistics for Data Science / Machine Learning</title>
+      <link>http://friedeggs.github.io/talks/intro-to-statistics/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/intro-to-statistics/</guid>
+      <description>&lt;p&gt;The second of two talks on linear algebra and statistics in machine learning, joint with &lt;a target=&#34;_blank&#34; href=&#34;https://anzoteh96.github.io/&#34;&gt;Anzo Teh&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variational Autoencoders</title>
+      <link>http://friedeggs.github.io/talks/variational-autoencoders/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/variational-autoencoders/</guid>
+      <description>In addition to research and internship opportunities, I learned about AI through reading and summarizing blog posts and papers, then giving talks like this one.</description>
+    </item>
+    
+    <item>
+      <title>Combinatorics &amp; Optimization Undergraduate Research Intern</title>
+      <link>http://friedeggs.github.io/work/co-ura-2019/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/co-ura-2019/</guid>
+      <description>At University of Waterloo C&amp;amp;O Department in Waterloo, Ontario, Canada.
+endpreamble
+Extended a result from graph theory in an attempt to resolve a conjecture in extremal combinatorics.</description>
     </item>
     
     <item>
@@ -141,29 +246,64 @@ endpreamble</description>
     </item>
     
     <item>
+      <title>Uber ATG R&amp;D Intern</title>
+      <link>http://friedeggs.github.io/work/uber-2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2018/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Implemented a hardcoded baseline for the photorealistic image simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
+      <title>Petuum Software Engineering Intern</title>
+      <link>http://friedeggs.github.io/work/petuum-2018/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/petuum-2018/</guid>
+      <description>At enterprise machine learning startup Petuum in Pittsburgh, Pennsylvania, USA.
+endpreamble
+Researched efficient distributed learning algorithms for neural networks and machine learning models.</description>
+    </item>
+    
+    <item>
+      <title>Siri NL Machine Learning Intern</title>
+      <link>http://friedeggs.github.io/work/siri-nl-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/siri-nl-2017/</guid>
+      <description>At Apple Campus in Cupertino, California, USA.
+endpreamble
+Developed an app to help data scientists visualize how AI models performed on text.</description>
+    </item>
+    
+    <item>
       <title>syncflowy: a synergistic cross between Google Docs and Workflowy</title>
-      <link>http://friedeggs.github.io/projects/syncflowy/</link>
+      <link>http://friedeggs.github.io/code/syncflowy/</link>
       <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
-      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;</description>
+      <guid>http://friedeggs.github.io/code/syncflowy/</guid>
+      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;
+&lt;p&gt;endpreamble&lt;/p&gt;
+&lt;p&gt;Based on operational transform as described in the &lt;a href=&#34;https://www.researchgate.net/publication/220876978_High-Latency_Low-Bandwidth_Windowing_in_the_Jupiter_Collaboration_System&#34; target=&#34;_blank&#34;&gt;Jupiter collaborative system&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning to compress neural networks in Caffe</title>
-      <link>http://friedeggs.github.io/projects/caffe-compression/</link>
+      <link>http://friedeggs.github.io/code/caffe-compression/</link>
       <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/caffe-compression/</guid>
-      <description>&lt;p&gt;A fork of the C++ deep learning framework &lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34;&gt;Caffe&lt;/a&gt; that adds a &lt;code&gt;compress&lt;/code&gt; command which roughly implements the NIPS 2015 paper &lt;a href=&#34;https://arxiv.org/pdf/1506.02626.pdf&#34; target=&#34;_blank&#34;&gt;Learning both Weights and Connections for Efficient Neural Networks&lt;/a&gt; by Han et al. Handles fully connected layers only.&lt;/p&gt;</description>
+      <guid>http://friedeggs.github.io/code/caffe-compression/</guid>
+      <description>&lt;p&gt;A modified fork of the C++ deep learning framework &lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34;&gt;Caffe&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Face Alignment Using Regression Trees</title>
-      <link>http://friedeggs.github.io/projects/face-alignment/</link>
+      <link>http://friedeggs.github.io/code/face-alignment/</link>
       <pubDate>Thu, 02 Jun 2016 20:20:35 -0400</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/face-alignment/</guid>
+      <guid>http://friedeggs.github.io/code/face-alignment/</guid>
       <description>&lt;p&gt;An implementation of Kazemi et al.&amp;rsquo;s &lt;a href=&#34;https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kazemi_One_Millisecond_Face_2014_CVPR_paper.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;One Millisecond Face Alignment With An Ensemble of Regression Trees&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

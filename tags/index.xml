@@ -6,50 +6,113 @@
     <description>Recent content in Tags on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ai</title>
       <link>http://friedeggs.github.io/tags/ai/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>nlp</title>
-      <link>http://friedeggs.github.io/tags/nlp/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <title>cogsci</title>
+      <link>http://friedeggs.github.io/tags/cogsci/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/nlp/</guid>
+      <guid>http://friedeggs.github.io/tags/cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>http://friedeggs.github.io/tags/psychology/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rl</title>
+      <link>http://friedeggs.github.io/tags/rl/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>http://friedeggs.github.io/tags/data/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>http://friedeggs.github.io/tags/education/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>http://friedeggs.github.io/tags/games/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>http://friedeggs.github.io/tags/ml/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reasoning</title>
       <link>http://friedeggs.github.io/tags/reasoning/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/tags/reasoning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>academia</title>
-      <link>http://friedeggs.github.io/tags/academia/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <title>hci</title>
+      <link>http://friedeggs.github.io/tags/hci/</link>
+      <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/academia/</guid>
+      <guid>http://friedeggs.github.io/tags/hci/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cartoons</title>
-      <link>http://friedeggs.github.io/tags/cartoons/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <title>nlp</title>
+      <link>http://friedeggs.github.io/tags/nlp/</link>
+      <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/cartoons/</guid>
+      <guid>http://friedeggs.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>http://friedeggs.github.io/tags/math/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/math/</guid>
       <description></description>
     </item>
     
@@ -63,54 +126,81 @@
     </item>
     
     <item>
-      <title>hci</title>
-      <link>http://friedeggs.github.io/tags/hci/</link>
-      <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
+      <title>robotics</title>
+      <link>http://friedeggs.github.io/tags/robotics/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/hci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vision</title>
-      <link>http://friedeggs.github.io/tags/vision/</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/tags/vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>journal-entries</title>
-      <link>http://friedeggs.github.io/tags/journal-entries/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/tags/journal-entries/</guid>
+      <guid>http://friedeggs.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>simulation</title>
       <link>http://friedeggs.github.io/tags/simulation/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>games</title>
-      <link>http://friedeggs.github.io/tags/games/</link>
+      <title>vision</title>
+      <link>http://friedeggs.github.io/tags/vision/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>http://friedeggs.github.io/tags/academia/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cartoons</title>
+      <link>http://friedeggs.github.io/tags/cartoons/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/cartoons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphics</title>
+      <link>http://friedeggs.github.io/tags/graphics/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journal</title>
+      <link>http://friedeggs.github.io/tags/journal/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/tags/games/</guid>
+      <guid>http://friedeggs.github.io/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>http://friedeggs.github.io/tags/statistics/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/tags/statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>systems</title>
       <link>http://friedeggs.github.io/tags/systems/</link>
-      <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/tags/systems/</guid>
       <description></description>

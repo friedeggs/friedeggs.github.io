@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/math/</link>
+    <description>Recent content in math on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NeurIPS 2022 MATH-AI Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai-2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Evaluation of Language Models</title>
+      <link>http://friedeggs.github.io/papers/helm/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/helm/</guid>
+      <description>†: lead authors
+*: major contributors  endpreamble
+Preprint</description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorics &amp; Optimization Undergraduate Research Intern</title>
+      <link>http://friedeggs.github.io/work/co-ura-2019/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/co-ura-2019/</guid>
+      <description>At University of Waterloo C&amp;amp;O Department in Waterloo, Ontario, Canada.
+endpreamble
+Extended a result from graph theory in an attempt to resolve a conjecture in extremal combinatorics.</description>
+    </item>
+    
+  </channel>
+</rss>

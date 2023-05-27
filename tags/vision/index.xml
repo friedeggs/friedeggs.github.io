@@ -6,33 +6,73 @@
     <description>Recent content in vision on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/vision/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BEHAVIOR feedback: a benchmark for social perception</title>
+      <link>http://friedeggs.github.io/talks/behavior-feedback/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/behavior-feedback/</guid>
+      <description>&lt;p&gt;A project pitch for how smart agents can interact with us to better understand our goals in household activities by learning individual and cultural diversity.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>On the Opportunities and Risks of Foundation Models</title>
-      <link>http://friedeggs.github.io/publications/foundation-models/</link>
+      <link>http://friedeggs.github.io/papers/foundation-models/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/foundation-models/</guid>
+      <guid>http://friedeggs.github.io/papers/foundation-models/</guid>
       <description>Please cite using these guidelines.
 endpreamble</description>
     </item>
     
     <item>
       <title>GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving</title>
-      <link>http://friedeggs.github.io/publications/geosim/</link>
+      <link>http://friedeggs.github.io/papers/geosim/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/geosim/</guid>
+      <guid>http://friedeggs.github.io/papers/geosim/</guid>
       <description>Best Paper Candidate at CVPR 2021</description>
     </item>
     
     <item>
+      <title>Differentiable Rendering: Overview</title>
+      <link>http://friedeggs.github.io/talks/differentiable-rendering-overview/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/differentiable-rendering-overview/</guid>
+      <description>&lt;p&gt;A survey talk based on section 2 from this &lt;a target=&#34;_blank&#34; href=&#34;https://arxiv.org/abs/2006.12057&#34;&gt;survey paper&lt;/a&gt; on Differentiable Rendering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uber ATG Research Scientist</title>
+      <link>http://friedeggs.github.io/work/uber-2020/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2020/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Demonstrated a data-driven pipeline for the photorealistic video simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
+      <title>Uber ATG R&amp;D Intern</title>
+      <link>http://friedeggs.github.io/work/uber-2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2018/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Implemented a hardcoded baseline for the photorealistic image simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
       <title>Face Alignment Using Regression Trees</title>
-      <link>http://friedeggs.github.io/projects/face-alignment/</link>
+      <link>http://friedeggs.github.io/code/face-alignment/</link>
       <pubDate>Thu, 02 Jun 2016 20:20:35 -0400</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/face-alignment/</guid>
+      <guid>http://friedeggs.github.io/code/face-alignment/</guid>
       <description>&lt;p&gt;An implementation of Kazemi et al.&amp;rsquo;s &lt;a href=&#34;https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kazemi_One_Millisecond_Face_2014_CVPR_paper.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;One Millisecond Face Alignment With An Ensemble of Regression Trees&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

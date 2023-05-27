@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graphics on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/graphics/</link>
+    <description>Recent content in graphics on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving</title>
+      <link>http://friedeggs.github.io/papers/geosim/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/geosim/</guid>
+      <description>Best Paper Candidate at CVPR 2021</description>
+    </item>
+    
+    <item>
+      <title>Differentiable Rendering: Overview</title>
+      <link>http://friedeggs.github.io/talks/differentiable-rendering-overview/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/differentiable-rendering-overview/</guid>
+      <description>&lt;p&gt;A survey talk based on section 2 from this &lt;a target=&#34;_blank&#34; href=&#34;https://arxiv.org/abs/2006.12057&#34;&gt;survey paper&lt;/a&gt; on Differentiable Rendering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uber ATG Research Scientist</title>
+      <link>http://friedeggs.github.io/work/uber-2020/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2020/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Demonstrated a data-driven pipeline for the photorealistic video simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
+      <title>Uber ATG R&amp;D Intern</title>
+      <link>http://friedeggs.github.io/work/uber-2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2018/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Implemented a hardcoded baseline for the photorealistic image simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+  </channel>
+</rss>

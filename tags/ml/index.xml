@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/ml/</link>
+    <description>Recent content in ml on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
+      <link>http://friedeggs.github.io/papers/learning-progress/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
+      <description>Demo paper at EDM 2023.</description>
+    </item>
+    
+    <item>
+      <title>[Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion) paper review</title>
+      <link>http://friedeggs.github.io/talks/ddpm-review/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/ddpm-review/</guid>
+      <description>&lt;p&gt;As graciously explained to me by one of the authors, &lt;a target=&#34;_blank&#34; href=&#34;https://www.ajayjain.net&#34;&gt;Ajay Jain&lt;/a&gt;. (Any errors are mine!)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intro to Statistics for Data Science / Machine Learning</title>
+      <link>http://friedeggs.github.io/talks/intro-to-statistics/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/intro-to-statistics/</guid>
+      <description>&lt;p&gt;The second of two talks on linear algebra and statistics in machine learning, joint with &lt;a target=&#34;_blank&#34; href=&#34;https://anzoteh96.github.io/&#34;&gt;Anzo Teh&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Petuum Software Engineering Intern</title>
+      <link>http://friedeggs.github.io/work/petuum-2018/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/petuum-2018/</guid>
+      <description>At enterprise machine learning startup Petuum in Pittsburgh, Pennsylvania, USA.
+endpreamble
+Researched efficient distributed learning algorithms for neural networks and machine learning models.</description>
+    </item>
+    
+  </channel>
+</rss>

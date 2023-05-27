@@ -6,33 +6,61 @@
     <description>Recent content in reasoning on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
+      <link>http://friedeggs.github.io/papers/learning-progress/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
+      <description>Demo paper at EDM 2023.</description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2022 MATH-AI Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai-2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai-2022/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Holistic Evaluation of Language Models</title>
-      <link>http://friedeggs.github.io/publications/helm/</link>
+      <link>http://friedeggs.github.io/papers/helm/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/helm/</guid>
+      <guid>http://friedeggs.github.io/papers/helm/</guid>
       <description>†: lead authors
-*: major contributors  endpreamble</description>
+*: major contributors  endpreamble
+Preprint</description>
     </item>
     
     <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
-      <link>http://friedeggs.github.io/publications/big-bench/</link>
+      <link>http://friedeggs.github.io/papers/big-bench/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/big-bench/</guid>
+      <guid>http://friedeggs.github.io/papers/big-bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Opportunities and Risks of Foundation Models</title>
-      <link>http://friedeggs.github.io/publications/foundation-models/</link>
+      <link>http://friedeggs.github.io/papers/foundation-models/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/publications/foundation-models/</guid>
+      <guid>http://friedeggs.github.io/papers/foundation-models/</guid>
       <description>Please cite using these guidelines.
 endpreamble</description>
     </item>

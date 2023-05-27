@@ -6,14 +6,23 @@
     <description>Recent content in hci on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Tue, 17 May 2022 22:19:54 -0700</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Mon, 19 Dec 2022 01:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluating Human-Language Model Interaction</title>
+      <link>http://friedeggs.github.io/papers/halie/</link>
+      <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/halie/</guid>
+      <description>Preprint</description>
+    </item>
+    
     <item>
       <title>amble: feed your creative curiosities</title>
-      <link>http://friedeggs.github.io/projects/amble/</link>
+      <link>http://friedeggs.github.io/code/amble/</link>
       <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/amble/</guid>
+      <guid>http://friedeggs.github.io/code/amble/</guid>
       <description>&lt;p&gt;Our course project for &lt;a href=&#34;https://hci.stanford.edu/courses/cs147/2022/wi/index.html&#34; target=&#34;_blank&#34;&gt;CS147: Intro to Human-Computer Interaction&lt;/a&gt; with &lt;a href=&#34;https://www.landay.org/&#34; target=&#34;_blank&#34;&gt;James Landay&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

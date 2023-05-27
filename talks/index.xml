@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on frieda rong</title>
+    <link>http://friedeggs.github.io/talks/</link>
+    <description>Recent content in Talks on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BEHAVIOR feedback: a benchmark for social perception</title>
+      <link>http://friedeggs.github.io/talks/behavior-feedback/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/behavior-feedback/</guid>
+      <description>&lt;p&gt;A project pitch for how smart agents can interact with us to better understand our goals in household activities by learning individual and cultural diversity.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Differentiable Rendering: Overview</title>
+      <link>http://friedeggs.github.io/talks/differentiable-rendering-overview/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/differentiable-rendering-overview/</guid>
+      <description>&lt;p&gt;A survey talk based on section 2 from this &lt;a target=&#34;_blank&#34; href=&#34;https://arxiv.org/abs/2006.12057&#34;&gt;survey paper&lt;/a&gt; on Differentiable Rendering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion) paper review</title>
+      <link>http://friedeggs.github.io/talks/ddpm-review/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/ddpm-review/</guid>
+      <description>&lt;p&gt;As graciously explained to me by one of the authors, &lt;a target=&#34;_blank&#34; href=&#34;https://www.ajayjain.net&#34;&gt;Ajay Jain&lt;/a&gt;. (Any errors are mine!)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intro to Statistics for Data Science / Machine Learning</title>
+      <link>http://friedeggs.github.io/talks/intro-to-statistics/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/intro-to-statistics/</guid>
+      <description>&lt;p&gt;The second of two talks on linear algebra and statistics in machine learning, joint with &lt;a target=&#34;_blank&#34; href=&#34;https://anzoteh96.github.io/&#34;&gt;Anzo Teh&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variational Autoencoders</title>
+      <link>http://friedeggs.github.io/talks/variational-autoencoders/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/variational-autoencoders/</guid>
+      <description>In addition to research and internship opportunities, I learned about AI through reading and summarizing blog posts and papers, then giving talks like this one.</description>
+    </item>
+    
+  </channel>
+</rss>

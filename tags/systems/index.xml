@@ -6,24 +6,37 @@
     <description>Recent content in systems on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Sat, 14 Jan 2017 17:29:02 -0500</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petuum Software Engineering Intern</title>
+      <link>http://friedeggs.github.io/work/petuum-2018/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/petuum-2018/</guid>
+      <description>At enterprise machine learning startup Petuum in Pittsburgh, Pennsylvania, USA.
+endpreamble
+Researched efficient distributed learning algorithms for neural networks and machine learning models.</description>
+    </item>
+    
     <item>
       <title>syncflowy: a synergistic cross between Google Docs and Workflowy</title>
-      <link>http://friedeggs.github.io/projects/syncflowy/</link>
+      <link>http://friedeggs.github.io/code/syncflowy/</link>
       <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/syncflowy/</guid>
-      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;</description>
+      <guid>http://friedeggs.github.io/code/syncflowy/</guid>
+      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;
+&lt;p&gt;endpreamble&lt;/p&gt;
+&lt;p&gt;Based on operational transform as described in the &lt;a href=&#34;https://www.researchgate.net/publication/220876978_High-Latency_Low-Bandwidth_Windowing_in_the_Jupiter_Collaboration_System&#34; target=&#34;_blank&#34;&gt;Jupiter collaborative system&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning to compress neural networks in Caffe</title>
-      <link>http://friedeggs.github.io/projects/caffe-compression/</link>
+      <link>http://friedeggs.github.io/code/caffe-compression/</link>
       <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/caffe-compression/</guid>
-      <description>&lt;p&gt;A fork of the C++ deep learning framework &lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34;&gt;Caffe&lt;/a&gt; that adds a &lt;code&gt;compress&lt;/code&gt; command which roughly implements the NIPS 2015 paper &lt;a href=&#34;https://arxiv.org/pdf/1506.02626.pdf&#34; target=&#34;_blank&#34;&gt;Learning both Weights and Connections for Efficient Neural Networks&lt;/a&gt; by Han et al. Handles fully connected layers only.&lt;/p&gt;</description>
+      <guid>http://friedeggs.github.io/code/caffe-compression/</guid>
+      <description>&lt;p&gt;A modified fork of the C++ deep learning framework &lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34;&gt;Caffe&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

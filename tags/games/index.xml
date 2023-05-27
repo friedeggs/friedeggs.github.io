@@ -6,14 +6,23 @@
     <description>Recent content in games on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019-2022</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
+      <link>http://friedeggs.github.io/papers/learning-progress/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
+      <description>Demo paper at EDM 2023.</description>
+    </item>
+    
     <item>
       <title>terminal-jellies: Jellies, in your terminal</title>
-      <link>http://friedeggs.github.io/projects/terminal-jellies/</link>
+      <link>http://friedeggs.github.io/code/terminal-jellies/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/projects/terminal-jellies/</guid>
+      <guid>http://friedeggs.github.io/code/terminal-jellies/</guid>
       <description>&lt;figure&gt;
     &lt;a href=&#34;https://asciinema.org/a/DHQp9turdBHvzhLTkCFOif74x&#34;&gt;&lt;img src=&#39;http://friedeggs.github.io/files/demo.gif&#39; alt=&#39;demo&#39; width=&#34;60%&#34; height=&#34;60%&#34;/&gt;&lt;/a&gt;
     &lt;figcaption&gt;Demo with example levels loaded&lt;/figcaption&gt;
@@ -24,7 +33,7 @@
 &lt;/figure&gt;
 &lt;h6 id=&#34;2022-05-18-review&#34;&gt;2022-05-18 review&lt;/h6&gt;
 &lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;I made this in the winter of 2019, inspired by &lt;a href=&#34;https://github.com/zxqfl/jellies&#34; target=&#34;_blank&#34;&gt;Jellies&lt;/a&gt; (in turn based off of &lt;a href=&#34;https://qrostar.skr.jp/en/jelly/&#34; target=&#34;_blank&#34;&gt;Jelly no Puzzle&lt;/a&gt;) and other cutesy puzzle games I&amp;rsquo;d stumble across back then, like &lt;a href=&#34;https://web.archive.org/web/20190909085700/http://marblespuzzle.com/&#34; target=&#34;_blank&#34;&gt;marblesgame&lt;/a&gt;, to make a clone of the former.&lt;/p&gt;</description>
+&lt;p&gt;Made in the winter of 2019, inspired by the &lt;a href=&#34;https://github.com/zxqfl/jellies&#34; target=&#34;_blank&#34;&gt;Jellies&lt;/a&gt; puzzle game.&lt;/p&gt;</description>
     </item>
     
   </channel>

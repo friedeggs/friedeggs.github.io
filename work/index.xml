@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on frieda rong</title>
+    <link>http://friedeggs.github.io/work/</link>
+    <description>Recent content in Works on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2023</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uber ATG Research Scientist</title>
+      <link>http://friedeggs.github.io/work/uber-2020/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2020/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Demonstrated a data-driven pipeline for the photorealistic video simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
+      <title>Combinatorics &amp; Optimization Undergraduate Research Intern</title>
+      <link>http://friedeggs.github.io/work/co-ura-2019/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/co-ura-2019/</guid>
+      <description>At University of Waterloo C&amp;amp;O Department in Waterloo, Ontario, Canada.
+endpreamble
+Extended a result from graph theory in an attempt to resolve a conjecture in extremal combinatorics.</description>
+    </item>
+    
+    <item>
+      <title>Uber ATG R&amp;D Intern</title>
+      <link>http://friedeggs.github.io/work/uber-2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/uber-2018/</guid>
+      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
+endpreamble
+Implemented a hardcoded baseline for the photorealistic image simulation of cars inserted into urban driving scenes.</description>
+    </item>
+    
+    <item>
+      <title>Petuum Software Engineering Intern</title>
+      <link>http://friedeggs.github.io/work/petuum-2018/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/petuum-2018/</guid>
+      <description>At enterprise machine learning startup Petuum in Pittsburgh, Pennsylvania, USA.
+endpreamble
+Researched efficient distributed learning algorithms for neural networks and machine learning models.</description>
+    </item>
+    
+    <item>
+      <title>Siri NL Machine Learning Intern</title>
+      <link>http://friedeggs.github.io/work/siri-nl-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/work/siri-nl-2017/</guid>
+      <description>At Apple Campus in Cupertino, California, USA.
+endpreamble
+Developed an app to help data scientists visualize how AI models performed on text.</description>
+    </item>
+    
+  </channel>
+</rss>
