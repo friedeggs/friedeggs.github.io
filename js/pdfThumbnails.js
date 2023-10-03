@@ -46,11 +46,19 @@ var createPDFThumbnails = function(){
             }
 
             var filePath = element.getAttribute('data-pdf-thumbnail-file');
+            var pageNumber = element.getAttribute('data-pdf-thumbnail-page');
             var imgWidth = element.getAttribute('data-pdf-thumbnail-width');
             var imgHeight = element.getAttribute('data-pdf-thumbnail-height');
 
+            if (!pageNumber) {
+                pageNumber = 1;
+            } else {
+                pageNumber = parseInt(pageNumber);
+            }
+            console.log(filePath, pageNumber)
+
             pdfjsLib.getDocument({url: filePath, worker: worker}).promise.then(function (pdf) {
-                pdf.getPage(1).then(function (page) {
+                pdf.getPage(pageNumber).then(function (page) {
                     var canvas = document.createElement("canvas");
                     var viewport = page.getViewport({scale: 1.0});
                     var context = canvas.getContext('2d');
@@ -71,7 +79,7 @@ var createPDFThumbnails = function(){
                         element.src = canvas.toDataURL();
                     });
                 }).catch(function() {
-                    console.log("pdfThumbnails error: could not open page 1 of document " + filePath + ". Not a pdf ?");
+                    console.log("pdfThumbnails error: could not open page " + pageNumber + " of document " + filePath + ". Not a pdf ?");
                 });
             }).catch(function() {
                 console.log("pdfThumbnails error: could not find or open document " + filePath + ". Not a pdf ?");
