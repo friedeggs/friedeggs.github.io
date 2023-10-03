@@ -14,17 +14,11 @@
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/code/terminal-jellies/</guid>
-      <description>&lt;figure&gt;
-    &lt;a href=&#34;https://asciinema.org/a/DHQp9turdBHvzhLTkCFOif74x&#34;&gt;&lt;img src=&#39;http://friedeggs.github.io/files/demo.gif&#39; alt=&#39;demo&#39; width=&#34;60%&#34; height=&#34;60%&#34;/&gt;&lt;/a&gt;
-    &lt;figcaption&gt;Demo with example levels loaded&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;a href=&#34;https://asciinema.org/a/SwfuCyPYhwTORnyihDMbkTsAP&#34;&gt;&lt;img src=&#39;http://friedeggs.github.io/files/levels.gif&#39; alt=&#39;demo&#39; width=&#34;60%&#34; height=&#34;60%&#34;/&gt;&lt;/a&gt;
-    &lt;figcaption&gt;The game&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h6 id=&#34;2022-05-18-review&#34;&gt;2022-05-18 review&lt;/h6&gt;
-&lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;Made in the winter of 2019, inspired by the &lt;a href=&#34;https://github.com/zxqfl/jellies&#34; target=&#34;_blank&#34;&gt;Jellies&lt;/a&gt; puzzle game.&lt;/p&gt;</description>
+      <description>Demo with example levels loaded    The game  2022-05-18 review endpreamble
+Made in the winter of 2019, inspired by the Jellies puzzle game.
+morecontent
+Having played this variation on Jelly no Puzzle and other cutesy puzzle games I&amp;rsquo;d stumble across back then, like marblesgame, I decided to make my own clone of the former.
+It was the middle of midterms and honestly the most fun (and only) weekend spurt of coding I had in a long while.</description>
     </item>
     
   </channel>

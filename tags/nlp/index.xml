@@ -14,7 +14,8 @@
       <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/halie/</guid>
-      <description>Preprint</description>
+      <description>Accepted to TMLR 2023
+How can we use AI assistants to generate metaphors?</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <guid>http://friedeggs.github.io/papers/helm/</guid>
       <description>†: lead authors
 *: major contributors  endpreamble
-Preprint</description>
+Accepted to TMLR 2023
+How well do large language models perform on the MATH dataset?</description>
     </item>
     
     <item>
@@ -34,7 +36,7 @@ Preprint</description>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/big-bench/</guid>
-      <description></description>
+      <description>How well do large language models perform on an unnatural in-context learning task?</description>
     </item>
     
     <item>

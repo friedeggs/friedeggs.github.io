@@ -34,9 +34,11 @@ Developed an app to help data scientists visualize how AI models performed on te
       <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
       
       <guid>http://friedeggs.github.io/code/syncflowy/</guid>
-      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;
-&lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;Based on operational transform as described in the &lt;a href=&#34;https://www.researchgate.net/publication/220876978_High-Latency_Low-Bandwidth_Windowing_in_the_Jupiter_Collaboration_System&#34; target=&#34;_blank&#34;&gt;Jupiter collaborative system&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!
+endpreamble
+Based on operational transform as described in the Jupiter collaborative system.
+morecontent
+Made with Redis, NodeJS, and MongoDB.</description>
     </item>
     
   </channel>

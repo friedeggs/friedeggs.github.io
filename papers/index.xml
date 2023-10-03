@@ -14,7 +14,8 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/attachment-agents/</guid>
-      <description>Member abstract at CogSci 2023.</description>
+      <description>Member abstract at CogSci 2023.
+How can we computationally model infant learning and attachment styles?</description>
     </item>
     
     <item>
@@ -23,7 +24,8 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
-      <description>Demo paper at EDM 2023.</description>
+      <description>Demo paper at EDM 2023.
+How do human learners perform on a puzzle video game compared to AI learners?</description>
     </item>
     
     <item>
@@ -32,7 +34,8 @@
       <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/halie/</guid>
-      <description>Preprint</description>
+      <description>Accepted to TMLR 2023
+How can we use AI assistants to generate metaphors?</description>
     </item>
     
     <item>
@@ -43,7 +46,8 @@
       <guid>http://friedeggs.github.io/papers/helm/</guid>
       <description>†: lead authors
 *: major contributors  endpreamble
-Preprint</description>
+Accepted to TMLR 2023
+How well do large language models perform on the MATH dataset?</description>
     </item>
     
     <item>
@@ -52,7 +56,7 @@ Preprint</description>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/big-bench/</guid>
-      <description></description>
+      <description>How well do large language models perform on an unnatural in-context learning task?</description>
     </item>
     
     <item>
@@ -62,7 +66,8 @@ Preprint</description>
       
       <guid>http://friedeggs.github.io/papers/foundation-models/</guid>
       <description>Please cite using these guidelines.
-endpreamble</description>
+endpreamble
+What are the next steps in teaching foundation models formal reasoning and using them?</description>
     </item>
     
     <item>
@@ -71,7 +76,8 @@ endpreamble</description>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/geosim/</guid>
-      <description>Best Paper Candidate at CVPR 2021</description>
+      <description>Best Paper Candidate at CVPR 2021
+How do we combine the best of graphics-based simulation and neural rendering?</description>
     </item>
     
   </channel>

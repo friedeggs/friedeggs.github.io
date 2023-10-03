@@ -15,6 +15,26 @@ src: url("fonts/dinmittelschriftstd-1-opentype.otf") format("opentype");
   font-weight: normal;
 }
 
+/*@media (min-width: 768px)*/
+.col-sm-4 {
+  display: inline-block;
+  width: 33%;
+/*  float: left;
+  position: relative;*/
+min-height: 1px;
+/*padding-right: 15px;*/
+padding-left: 15px;
+}
+.col-sm-8 {
+  display: inline-block;
+  width: 66%;
+/*  float: left;
+  position: relative;*/
+min-height: 1px;
+/*padding-right: 15px;
+padding-left: 15px;*/
+}
+
 h1,
 h2,
 h3,
@@ -49,6 +69,27 @@ samp {
   position: relative;
   color: #f25022;
   background-color: #fef9f7;
+}
+
+.list-item {
+  display: flex; 
+  flex-direction: row; 
+  padding-top: 15px !important;
+  margin-bottom: 15px !important; 
+  border: solid 1px black !important; 
+  background: #f1f8ff;
+}
+
+.note-type {
+  background-color: #ebcdec; 
+  padding: 0 5px; 
+  font-size: 14px; 
+  font-weight: 200; 
+/*  margin: 0 5px 0 0; */
+  margin: 0 0 0 15px;
+  text-align: right; 
+  display: inline;
+  height: fit-content;
 }
 
 .note {
@@ -123,7 +164,8 @@ a:active {
 
 .header {
   padding: 0;
-  background-color: #eaeaea; /*#fff;*/
+/*  background-color: #eaeaea; #fff;*/
+  background-color: #ffffff;
   margin-bottom: 2rem;
   border-top: 1px solid #e8e8e8;
 /*  border-bottom: 1px solid #e8e8e8;*/
@@ -346,6 +388,8 @@ body {
   /*width: 240px;*/
   overflow: hidden;
   display: inline-block;
+  text-align: center;
+  width: 100%;
 }
 
 /*.social-link-row:hover {
@@ -656,8 +700,20 @@ body {
 .article-header .tag-list {
   display: block;
   width: 100%;
-  text-align: right;
+/*  text-align: right;*/
   font-weight: 300;
+}
+
+@media (min-width: 768px) {
+.tag-list.featured {
+  position: absolute; 
+  bottom: 0; 
+  margin-bottom: 15px;
+}
+}
+
+.img-thumbnail a:hover {
+  opacity: 0.6;
 }
 
 /*.note {

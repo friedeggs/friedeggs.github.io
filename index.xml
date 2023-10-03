@@ -14,7 +14,8 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/attachment-agents/</guid>
-      <description>Member abstract at CogSci 2023.</description>
+      <description>Member abstract at CogSci 2023.
+How can we computationally model infant learning and attachment styles?</description>
     </item>
     
     <item>
@@ -23,7 +24,8 @@
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
-      <description>Demo paper at EDM 2023.</description>
+      <description>Demo paper at EDM 2023.
+How do human learners perform on a puzzle video game compared to AI learners?</description>
     </item>
     
     <item>
@@ -45,7 +47,8 @@ Thanks for stopping by my corner of the internet! (＾▽＾) ✧˖° Here are s
       <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/halie/</guid>
-      <description>Preprint</description>
+      <description>Accepted to TMLR 2023
+How can we use AI assistants to generate metaphors?</description>
     </item>
     
     <item>
@@ -65,7 +68,8 @@ Thanks for stopping by my corner of the internet! (＾▽＾) ✧˖° Here are s
       <guid>http://friedeggs.github.io/papers/helm/</guid>
       <description>†: lead authors
 *: major contributors  endpreamble
-Preprint</description>
+Accepted to TMLR 2023
+How well do large language models perform on the MATH dataset?</description>
     </item>
     
     <item>
@@ -74,7 +78,7 @@ Preprint</description>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/big-bench/</guid>
-      <description></description>
+      <description>How well do large language models perform on an unnatural in-context learning task?</description>
     </item>
     
     <item>
@@ -129,7 +133,8 @@ Preprint</description>
       
       <guid>http://friedeggs.github.io/papers/foundation-models/</guid>
       <description>Please cite using these guidelines.
-endpreamble</description>
+endpreamble
+What are the next steps in teaching foundation models formal reasoning and using them?</description>
     </item>
     
     <item>
@@ -138,7 +143,8 @@ endpreamble</description>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/geosim/</guid>
-      <description>Best Paper Candidate at CVPR 2021</description>
+      <description>Best Paper Candidate at CVPR 2021
+How do we combine the best of graphics-based simulation and neural rendering?</description>
     </item>
     
     <item>
@@ -183,17 +189,11 @@ endpreamble</description>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/code/terminal-jellies/</guid>
-      <description>&lt;figure&gt;
-    &lt;a href=&#34;https://asciinema.org/a/DHQp9turdBHvzhLTkCFOif74x&#34;&gt;&lt;img src=&#39;http://friedeggs.github.io/files/demo.gif&#39; alt=&#39;demo&#39; width=&#34;60%&#34; height=&#34;60%&#34;/&gt;&lt;/a&gt;
-    &lt;figcaption&gt;Demo with example levels loaded&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;a href=&#34;https://asciinema.org/a/SwfuCyPYhwTORnyihDMbkTsAP&#34;&gt;&lt;img src=&#39;http://friedeggs.github.io/files/levels.gif&#39; alt=&#39;demo&#39; width=&#34;60%&#34; height=&#34;60%&#34;/&gt;&lt;/a&gt;
-    &lt;figcaption&gt;The game&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h6 id=&#34;2022-05-18-review&#34;&gt;2022-05-18 review&lt;/h6&gt;
-&lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;Made in the winter of 2019, inspired by the &lt;a href=&#34;https://github.com/zxqfl/jellies&#34; target=&#34;_blank&#34;&gt;Jellies&lt;/a&gt; puzzle game.&lt;/p&gt;</description>
+      <description>Demo with example levels loaded    The game  2022-05-18 review endpreamble
+Made in the winter of 2019, inspired by the Jellies puzzle game.
+morecontent
+Having played this variation on Jelly no Puzzle and other cutesy puzzle games I&amp;rsquo;d stumble across back then, like marblesgame, I decided to make my own clone of the former.
+It was the middle of midterms and honestly the most fun (and only) weekend spurt of coding I had in a long while.</description>
     </item>
     
     <item>
@@ -284,9 +284,11 @@ Developed an app to help data scientists visualize how AI models performed on te
       <pubDate>Sat, 14 Jan 2017 17:29:02 -0500</pubDate>
       
       <guid>http://friedeggs.github.io/code/syncflowy/</guid>
-      <description>&lt;p&gt;Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!&lt;/p&gt;
-&lt;p&gt;endpreamble&lt;/p&gt;
-&lt;p&gt;Based on operational transform as described in the &lt;a href=&#34;https://www.researchgate.net/publication/220876978_High-Latency_Low-Bandwidth_Windowing_in_the_Jupiter_Collaboration_System&#34; target=&#34;_blank&#34;&gt;Jupiter collaborative system&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>Dredged these two videos up from an old USB back when Macbooks still came with USB-A ports. I&amp;rsquo;m sad to say I don&amp;rsquo;t have any videos of the more interesting operations. The unit tests covered them, mind you!
+endpreamble
+Based on operational transform as described in the Jupiter collaborative system.
+morecontent
+Made with Redis, NodeJS, and MongoDB.</description>
     </item>
     
     <item>
