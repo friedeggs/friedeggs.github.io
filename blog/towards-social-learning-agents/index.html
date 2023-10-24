@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+	<meta name="google-site-verification" content="9yWYzR3zrcUA5_TpbUIV5nmFZa5yrMys4k_-qwggL1o" />
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.99.0" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABb0lEQVQ4jV2SvW8TQRDFf2+zjSUi
+uSItNpUFSOH/F9ASJan5uBJobCm4cBdzj2Jm99Y56e5WszNv3rx52mzfGgzADGAjgPaVltsZpILV
+bqHGr2DPBFDeRhV2HlSggDOn/UtrJkCoIwfCnDge3mDZztV2BDTUuR3Ux+lEMk8UjCmt90UDwBk3
+C7hYwKMx1F714lmv10jieDwuOjQ22UaI6k7VPQGb9+8+cHv7kbu7r3z/8Y3T6QQmNtDXIOogeBdB
+EqvVit1ux2azZZp+8vnLJ6ZpusiWiC00kGAqpLhUEbVWrq9fUa+uerHRqMG460XP5+czv3/94fHx
+noeHe57+PmVe24uYbfRmu7XnlCZ3ZMzN6xtKKRwOB87/zr3opeQVh8lwUDcgw36/x6m0mtDKYQcm
+pW9c6sFFhxSDEuvLUSUNDCBmkRY7l8GWjtEiJ70puntrt6vd53P3+mjBxBtGEFCHtMEJHQlKQZfR
+HDpc9R81s7lOC+aG5gAAAABJRU5ErkJggg==" rel="icon" type="image/x-icon" />
+<meta name="color-scheme" content="light only">
+<meta name="supported-color-schemes" content="light only">
+
+
+  
+  
+    <title>Towards Social Learning Agents for Education &ndash; frieda rong</title>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/core.min.178d91ff3e1c984394cd68fa2c83947ae4ac2197086accb56adf5bfbd208fc87e3760931ebde0d612cd162e495b91cac.css" integrity="sha384-F42R/z4cmEOUzWj6LIOUeuSsIZcIasy1at9b&#43;9II/Ifjdgkx694NYSzRYuSVuRys">
+
+	
+	<link rel="stylesheet" href="/css/custom.min.5f0271385baae429261ffedce37588c4e7455946c461413287d4bf8dd99f70fbf78212b17fa7599f1664454cda1352eb.css" integrity="sha384-XwJxOFuq5CkmH/7c43WIxOdFWUbEYUEyh9S/jdmfcPv3ghKxf6dZnxZkRUzaE1Lr">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  
+    <body><section id="header" class="header">
+  <div class="nav-bar">
+    <a class="site-name" href="/">
+      
+        
+          frieda rong
+        
+        
+          <object>
+            <a target="_blank" href="/blog/index.xml" style="top: -2px" class="social-link"><img src="/rss4.svg"></a>
+          </object>
+        
+      
+    </a>
+    <div class="nav-menu">
+      <a class="nav-menu-item" href="http://friedeggs.github.io/current-condition">⛅</a>
+      <a class="nav-menu-item" href="http://friedeggs.github.io/about">about</a>
+      
+      
+    </div>
+  </div>
+</section><div class="main">
+      
+        
+        <div id="content">
+  
+  
+
+  
+  <h6 class="breadcrumb-back">
+    <a class="section-header" href="http://friedeggs.github.io/blog">&lt; blog</a>
+  </h6>
+  
+  <section class="article-header" >
+      
+
+      
+      <h1>
+      <object>
+          Towards Social Learning Agents for Education
+          <div class="note-metadata">
+            
+            
+            
+          </div>
+      </object>
+      </h1>
+      
+      
+      
+      <span class="article-date">Oct 21, 2023</span>
+      
+      
+      
+      
+        <span class="article-labels tag-list">
+          
+              
+                
+                <a class="article-tag li" href=/tags/ai/><span class="hashtag">#</span>ai</a>
+              
+                
+                <a class="article-tag li" href=/tags/education/><span class="hashtag">#</span>education</a>
+              
+                
+                <a class="article-tag li" href=/tags/rl/><span class="hashtag">#</span>rl</a>
+              
+        </span>
+      
+  </section>
+
+  <article class="markdown-body" >
+    <p>Collaborative learning is interactive and allows for shared meaning making. One form of collaborative learning is learning with AI agents. How can we develop AI agents which learn from and socialize with human peers to teach new concepts? We propose to equip agents with a reward model for social reward as an intrinsic motivation to learn from others.</p>
+<p>My former lab proposes AI agents driven by motivational needs to learn and develop. Directed by curiosity, AI agents can autonomously generate goals to seek new information.</p>
+<p>Forming a reward model for social reward allows for agents to predict what scenarios will generate positive peer responses and build social relationships. We can use this reward model to produce playful experiences in learning and model optimal learning zones.</p>
+<h2 id="agents-which-learn-from-and-model-social-reward">Agents which learn from and model social reward</h2>
+<p>AI agents which are motivated to elicit &ldquo;haha&rdquo; or &ldquo;funny&rdquo; reactions from a peer and otherwise surprising interactions lead to more novel shared experiences. To enable generating positive reactions, it is important for the AI agent to be able to model others, including their preferences and the direction of conversation.</p>
+<p>We formulate a reward model as a model of the other that can interact with the AI agent and shares similarities and dissimilarities from the agent. The &ldquo;other&rdquo; has preferences which the AI agent can elicit in order to learn more about them and form a better reward model.</p>
+<p>The reward model is initially data-impoverished. The AI agent is incentived to seek social interactions which inform its reward model. This is the &ldquo;preference elicitation&rdquo; phase during which the AI agent explores to form its reward model.</p>
+<h3 id="reward-internalisation">Reward internalisation</h3>
+<p>Given a source for social reward, the agent optimizes a reward model that models that reward source. The reward model can interact with the AI agent in simulated rollouts, guiding the agent&rsquo;s learning process. The reward model is an internalised substitute for real social interactions with the &ldquo;other&rdquo; that the AI agent now carries with itself.</p>
+<p>To prevent the reward model from going stale, the AI agent keeps track of its expectations of the other and updates them in light of new data. It models its own preferences and compares them with its model of the other&rsquo;s preferences. In this way it works backwards to better understand the other&rsquo;s preferences and the generating process of its reward model&rsquo;s data.</p>
+<p>The AI agent uses the reward model to guide its future learning. During curious exploration, the agent simulates the other&rsquo;s preferences and uses those to inform its own. It selects rollouts which are likely to yield positive reactions from both itself and its simulated other.</p>
+<h3 id="receiving-praise">Receiving &ldquo;praise&rdquo;</h3>
+<p>When the AI agent receives social reward, it is able to compare the reward to the prediction from its own reward model and ask the intention of the social reward. The reward can have one of two effects: to inform or to control. The agent predicts a causal explanation for the reward and infers the possible implication of the reward.</p>
+<p>In the former, reward is used communicatively. The agent infers that this is the intention of the reward when the reward supports its autonomous development. The feedback communicates information about the agent&rsquo;s learning process that allows the agent to update its model of its own learning.</p>
+<p>In the latter, reward is used to manipulate or control the agent. The agent receives reinforcement of an action that it made. In this setting, the decision-making process of the agent is not as important as the actions taken by the agent: the reward serves to provide that decision-making information.</p>
+<p>To distinguish the two, the agent uses its model of reward and learning to infer the meaning of the reward. If the agent made a large update to its learning and receives reward, it infers that the reward was used to reinforce its learning update. If the agent did not make a large update to its learning and receives reward, it infers that the reward was used to direct its decision-making process.</p>
+<p>The AI agent learns to model its learning process and either depend or rely more on itself or the caregiver. In the former, it internalises the praise as it being competent and makes larger learning updates in the future.</p>
+<h3 id="socialization-with-others">Socialization with others</h3>
+<p>Socialization involves an interactive dialogue in which agents elicit and exploit the preferences of others as they learn. An AI agent equipped with a reward model for social reward is incentived to engage in social conversation to improve its reward model and model of itself.</p>
+<p>Creating playful experiences is facilitated by the AI agent using its reward model to predict novel or surprising things that its peers may like. These combine the two main drives of the AI: to generate scenarios that it is curious about, and to generate scenarios where it will find social acceptance.</p>
+<p>We can use AI agents equipped with reward models for social reward to generate optimal learning experiences by predicting preferred scenarios and generating novel learning environments grounded in those scenarios.</p>
+<p>Together, this framework for social reward can enable greater personalized learning approaches that allow AI agents to learn alongside human learners, generating new and exciting directions for human-AI interaction.</p>
+    
+    
+  </article>
+
+  
+
+  
+  
+
+  
+
+  
+
+
+        </div><section id="footer" class="footer max-body-width">
+  
+  
+  <p>© 2019–2023</p>
+  <div id="footer-credits">
+    
+    <strong style="color: #686868">site info</strong>
+    <p>
+      generated using <a href="https://gohugo.io">Hugo</a>
+      <br>
+      base theme by <a href="https://themes.gohugo.io/hugo-notepadium/">Notepadium</a>
+      <br>
+
+      last updated <strong style="color: #686868">Oct 24, 2023</strong>
+    </p>
+  </div>
+</section>
+
+
+
+
+</div>
+    <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+    <script src="/js/pdfThumbnails.js" data-pdfjs-src="/js/pdf.js/build/pdf.js" type="text/javascript"></script>
+    </body>
+</html>
