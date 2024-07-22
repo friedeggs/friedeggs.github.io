@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) Workshop</title>
+      <link>http://friedeggs.github.io/service/solar-2023/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/solar-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2023 MATH-AI Workshop</title>
+      <link>http://friedeggs.github.io/service/mathai-2023/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/mathai-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18th Women in Machine Learning Workshop (WiML 2023)</title>
+      <link>http://friedeggs.github.io/service/wiml-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/wiml-2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>NeurIPS 2022 MATH-AI Workshop</title>
       <link>http://friedeggs.github.io/service/mathai-2022/</link>

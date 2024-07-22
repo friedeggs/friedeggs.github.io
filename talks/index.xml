@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
+      <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
+      <pubDate>Sun, 02 Jun 2024 16:56:47 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</guid>
+      <description>A version of the talk given to DGP catered towards self-driving cars.</description>
+    </item>
+    
+    <item>
+      <title>Evaluating artificial intelligence (AI) and human reasoning</title>
+      <link>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</guid>
+      <description>&lt;p&gt;A summary presentation of my work on evaluating &lt;a href=&#34;http://friedeggs.github.io/tags/reasoning&#34;&gt;reasoning&lt;/a&gt; across mathematics, creative writing, video games, and card games.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Factor Analysis for Baba is AI</title>
+      <link>http://friedeggs.github.io/talks/factor-analysis-for-baba-is-ai/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/factor-analysis-for-baba-is-ai/</guid>
+      <description>&lt;p&gt;A tutorial for education and machine learning researchers on using &lt;a target=&#34;_blank&#34; href=&#34;https://wikipedia.org/wiki/Factor_analysis&#34;&gt;factor analysis&lt;/a&gt; to analyze data for an in-progress research project.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Baba is AI</title>
+      <link>http://friedeggs.github.io/talks/baba-is-ai-csli/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/baba-is-ai-csli/</guid>
+      <description>&lt;p&gt;A project presentation for the 2022 class of &lt;a target=&#34;_blank&#34; href=&#34;https://www-csli.stanford.edu/csli-summer-internship-program-2022&#34;&gt;CSLI summer interns&lt;/a&gt; on studying the problem-solving process in the video game &lt;a target=&#34;_blank&#34; href=&#34;https://store.steampowered.com/app/736260/Baba_Is_You/&#34;&gt;Baba is You&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>BEHAVIOR feedback: a benchmark for social perception</title>
       <link>http://friedeggs.github.io/talks/behavior-feedback/</link>
@@ -15,6 +51,17 @@
       
       <guid>http://friedeggs.github.io/talks/behavior-feedback/</guid>
       <description>&lt;p&gt;A project pitch for how smart agents can interact with us to better understand our goals in household activities by learning individual and cultural diversity.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Generalization of Rules by Neural Nets &amp; Learning Networks of Neurons with Boolean Logic</title>
+      <link>http://friedeggs.github.io/talks/generalization-and-learning/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/generalization-and-learning/</guid>
+      <description>&lt;p&gt;Over the pandemic, our computer science PhD cohort organized a fun, informal reading group to take us back to the classics.&lt;/p&gt;
+&lt;p&gt;endpreamble&lt;/p&gt;
+&lt;p&gt;Inspired by all the &lt;a target=&#34;_blank&#34; href=&#34;https://www.gwern.net/Scaling-hypothesis&#34;&gt;scaling laws&lt;/a&gt; excitement, I coded up a numerical simulation of neural networks before GPUs were popular for science and leaderboard points!&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 21:10:48 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Value Internalization: Learning and Generalizing from Social Reward</title>
+      <link>http://friedeggs.github.io/papers/social-play/</link>
+      <pubDate>Sat, 07 Oct 2023 21:10:48 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/papers/social-play/</guid>
+      <description>Accepted to CogSci 2024.
+How can AI agents learn intrinsic motivations from others and internalise social rewards?</description>
+    </item>
+    
     <item>
       <title>Reinforcement Learning Models of Tradeoffs Between Infant Attachment and Curiosity</title>
       <link>http://friedeggs.github.io/papers/attachment-agents/</link>
@@ -46,7 +56,7 @@ How can we use AI assistants to generate metaphors?</description>
       <guid>http://friedeggs.github.io/papers/helm/</guid>
       <description>†: lead authors
 *: major contributors  endpreamble
-Accepted to TMLR 2023
+Accepted to TMLR 2023.
 How well do large language models perform on the MATH dataset?</description>
     </item>
     
@@ -56,7 +66,8 @@ How well do large language models perform on the MATH dataset?</description>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/big-bench/</guid>
-      <description>How well do large language models perform on an unnatural in-context learning task?</description>
+      <description>Accepted to TMLR 2023.
+How well do large language models perform on an unnatural in-context learning task?</description>
     </item>
     
     <item>

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18th Women in Machine Learning Workshop (WiML 2023)</title>
+      <link>http://friedeggs.github.io/service/wiml-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/wiml-2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
       <link>http://friedeggs.github.io/papers/learning-progress/</link>
@@ -16,6 +25,15 @@
       <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
       <description>Demo paper at EDM 2023.
 How do human learners perform on a puzzle video game compared to AI learners?</description>
+    </item>
+    
+    <item>
+      <title>Factor Analysis for Baba is AI</title>
+      <link>http://friedeggs.github.io/talks/factor-analysis-for-baba-is-ai/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/factor-analysis-for-baba-is-ai/</guid>
+      <description>&lt;p&gt;A tutorial for education and machine learning researchers on using &lt;a target=&#34;_blank&#34; href=&#34;https://wikipedia.org/wiki/Factor_analysis&#34;&gt;factor analysis&lt;/a&gt; to analyze data for an in-progress research project.&lt;/p&gt;</description>
     </item>
     
     <item>

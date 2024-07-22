@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Mon, 19 Dec 2022 01:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
+      <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
+      <pubDate>Sun, 02 Jun 2024 16:56:47 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</guid>
+      <description>A version of the talk given to DGP catered towards self-driving cars.</description>
+    </item>
+    
+    <item>
+      <title>Evaluating artificial intelligence (AI) and human reasoning</title>
+      <link>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</guid>
+      <description>&lt;p&gt;A summary presentation of my work on evaluating &lt;a href=&#34;http://friedeggs.github.io/tags/reasoning&#34;&gt;reasoning&lt;/a&gt; across mathematics, creative writing, video games, and card games.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Evaluating Human-Language Model Interaction</title>
       <link>http://friedeggs.github.io/papers/halie/</link>
