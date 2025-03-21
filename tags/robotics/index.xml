@@ -6,7 +6,7 @@
     <description>Recent content in robotics on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
+    <copyright>© 2019–2025</copyright>
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BEHAVIOR feedback: a benchmark for social perception</title>
@@ -23,30 +23,8 @@
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/geosim/</guid>
-      <description>Best Paper Candidate at CVPR 2021
-How do we combine the best of graphics-based simulation and neural rendering?</description>
-    </item>
-    
-    <item>
-      <title>Uber ATG Research Scientist</title>
-      <link>http://friedeggs.github.io/work/uber-2020/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/uber-2020/</guid>
-      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
-endpreamble
-Demonstrated a data-driven pipeline for the photorealistic video simulation of cars inserted into urban driving scenes.</description>
-    </item>
-    
-    <item>
-      <title>Uber ATG R&amp;D Intern</title>
-      <link>http://friedeggs.github.io/work/uber-2018/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/uber-2018/</guid>
-      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
-endpreamble
-Implemented a hardcoded baseline for the photorealistic image simulation of cars inserted into urban driving scenes.</description>
+      <description>Best Paper Candidate at CVPR 2021.
+How do we combine the best of graphics-based simulation and neural reconstruction?</description>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
     <description>Recent content in education on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
+    <copyright>© 2019–2025</copyright>
     <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
@@ -52,26 +52,6 @@ How do human learners perform on a puzzle video game compared to AI learners?</d
       
       <guid>http://friedeggs.github.io/talks/baba-is-ai-csli/</guid>
       <description>&lt;p&gt;A project presentation for the 2022 class of &lt;a target=&#34;_blank&#34; href=&#34;https://www-csli.stanford.edu/csli-summer-internship-program-2022&#34;&gt;CSLI summer interns&lt;/a&gt; on studying the problem-solving process in the video game &lt;a target=&#34;_blank&#34; href=&#34;https://store.steampowered.com/app/736260/Baba_Is_You/&#34;&gt;Baba is You&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CSLI Mentor</title>
-      <link>http://friedeggs.github.io/work/csli-2022/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/csli-2022/</guid>
-      <description>The CSLI summer internship program at Stanford is an interdisciplinary research program for undergraduates interested in cognitive science.
-endpreamble
-Helped analyze video game data to study high-level player behavior through low-level game features.</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
-      <description></description>
     </item>
     
   </channel>

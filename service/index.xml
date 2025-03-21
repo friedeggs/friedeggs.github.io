@@ -6,50 +6,32 @@
     <description>Recent content in Service on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) Workshop</title>
-      <link>http://friedeggs.github.io/service/solar-2023/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <title>CSC 2541 Winter 2025: Large Models</title>
+      <link>http://friedeggs.github.io/service/large-models/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/service/solar-2023/</guid>
+      <guid>http://friedeggs.github.io/service/large-models/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NeurIPS 2023 MATH-AI Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai-2023/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <title>Reinforcement Learning Conference 2024</title>
+      <link>http://friedeggs.github.io/service/rlc-2024/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/service/mathai-2023/</guid>
+      <guid>http://friedeggs.github.io/service/rlc-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>18th Women in Machine Learning Workshop (WiML 2023)</title>
-      <link>http://friedeggs.github.io/service/wiml-2023/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <title>CogSci 2024</title>
+      <link>http://friedeggs.github.io/service/cogsci-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/service/wiml-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2022 MATH-AI Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai-2022/</link>
-      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
+      <guid>http://friedeggs.github.io/service/cogsci-2024/</guid>
       <description></description>
     </item>
     

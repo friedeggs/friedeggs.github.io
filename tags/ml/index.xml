@@ -6,14 +6,14 @@
     <description>Recent content in ml on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>18th Women in Machine Learning Workshop (WiML 2023)</title>
-      <link>http://friedeggs.github.io/service/wiml-2023/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <title>CSC 2541 Winter 2025: Large Models</title>
+      <link>http://friedeggs.github.io/service/large-models/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/service/wiml-2023/</guid>
+      <guid>http://friedeggs.github.io/service/large-models/</guid>
       <description></description>
     </item>
     
@@ -52,17 +52,6 @@ How do human learners perform on a puzzle video game compared to AI learners?</d
       
       <guid>http://friedeggs.github.io/talks/intro-to-statistics/</guid>
       <description>&lt;p&gt;The second of two talks on linear algebra and statistics in machine learning, joint with &lt;a target=&#34;_blank&#34; href=&#34;https://anzoteh96.github.io/&#34;&gt;Anzo Teh&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Petuum Software Engineering Intern</title>
-      <link>http://friedeggs.github.io/work/petuum-2018/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/petuum-2018/</guid>
-      <description>At enterprise machine learning startup Petuum in Pittsburgh, Pennsylvania, USA.
-endpreamble
-Researched efficient distributed learning algorithms for neural networks and machine learning models.</description>
     </item>
     
   </channel>

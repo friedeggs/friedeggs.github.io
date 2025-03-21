@@ -6,14 +6,23 @@
     <description>Recent content in academia on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Sun, 15 Sep 2024 17:14:55 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving From Stanford University to the University of Toronto</title>
+      <link>http://friedeggs.github.io/blog/moving-schools/</link>
+      <pubDate>Sun, 15 Sep 2024 17:14:55 -0400</pubDate>
+      
+      <guid>http://friedeggs.github.io/blog/moving-schools/</guid>
+      <description>&lt;p&gt;Due to personal and academic reasons, I have moved from Stanford University to the University of Toronto.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Snow House</title>
-      <link>http://friedeggs.github.io/art/the-snow-house/</link>
+      <link>http://friedeggs.github.io/blog/the-snow-house/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://friedeggs.github.io/art/the-snow-house/</guid>
+      <guid>http://friedeggs.github.io/blog/the-snow-house/</guid>
       <description>&lt;p&gt;What it&amp;rsquo;s like to draw a connection in grad school.&lt;/p&gt;</description>
     </item>
     

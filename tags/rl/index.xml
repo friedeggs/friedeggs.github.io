@@ -6,8 +6,17 @@
     <description>Recent content in rl on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinforcement Learning Conference 2024</title>
+      <link>http://friedeggs.github.io/service/rlc-2024/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/rlc-2024/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
       <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
@@ -32,8 +41,8 @@
       <pubDate>Sat, 07 Oct 2023 21:10:48 -0400</pubDate>
       
       <guid>http://friedeggs.github.io/papers/social-play/</guid>
-      <description>Accepted to CogSci 2024.
-How can AI agents learn intrinsic motivations from others and internalise social rewards?</description>
+      <description>Accepted to CogSci 2024 and Reinforcement Learning Conference 2024.
+How can AI agents learn motivations from others and internalise social rewards?</description>
     </item>
     
     <item>

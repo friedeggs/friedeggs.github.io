@@ -6,8 +6,17 @@
     <description>Recent content in reasoning on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CogSci 2024</title>
+      <link>http://friedeggs.github.io/service/cogsci-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/cogsci-2024/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
       <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
@@ -27,26 +36,6 @@
     </item>
     
     <item>
-      <title>TEKsystems @ Meta Prompt Engineer - Math</title>
-      <link>http://friedeggs.github.io/work/meta-2024/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/meta-2024/</guid>
-      <description>Remote work in Toronto, Ontario, Canada.
-endpreamble
-Did contract work with TEKsystems on assignment at Meta (formerly Facebook).</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2023 MATH-AI Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai-2023/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
       <link>http://friedeggs.github.io/papers/learning-progress/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
@@ -54,15 +43,6 @@ Did contract work with TEKsystems on assignment at Meta (formerly Facebook).</de
       <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
       <description>Demo paper at EDM 2023.
 How do human learners perform on a puzzle video game compared to AI learners?</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2022 MATH-AI Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai-2022/</link>
-      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai-2022/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -96,17 +76,6 @@ How well do large language models perform on the MATH dataset?</description>
     </item>
     
     <item>
-      <title>CSLI Mentor</title>
-      <link>http://friedeggs.github.io/work/csli-2022/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/csli-2022/</guid>
-      <description>The CSLI summer internship program at Stanford is an interdisciplinary research program for undergraduates interested in cognitive science.
-endpreamble
-Helped analyze video game data to study high-level player behavior through low-level game features.</description>
-    </item>
-    
-    <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
       <link>http://friedeggs.github.io/papers/big-bench/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
@@ -114,15 +83,6 @@ Helped analyze video game data to study high-level player behavior through low-l
       <guid>http://friedeggs.github.io/papers/big-bench/</guid>
       <description>Accepted to TMLR 2023.
 How well do large language models perform on an unnatural in-context learning task?</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
-      <description></description>
     </item>
     
     <item>

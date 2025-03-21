@@ -6,8 +6,26 @@
     <description>Recent content in nlp on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSC 2541 Winter 2025: Large Models</title>
+      <link>http://friedeggs.github.io/service/large-models/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/large-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogSci 2024</title>
+      <link>http://friedeggs.github.io/service/cogsci-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/cogsci-2024/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
       <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
@@ -27,32 +45,12 @@
     </item>
     
     <item>
-      <title>TEKsystems @ Meta Prompt Engineer - Math</title>
-      <link>http://friedeggs.github.io/work/meta-2024/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/meta-2024/</guid>
-      <description>Remote work in Toronto, Ontario, Canada.
-endpreamble
-Did contract work with TEKsystems on assignment at Meta (formerly Facebook).</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) Workshop</title>
-      <link>http://friedeggs.github.io/service/solar-2023/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/solar-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evaluating Human-Language Model Interaction</title>
       <link>http://friedeggs.github.io/papers/halie/</link>
       <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/halie/</guid>
-      <description>Accepted to TMLR 2023
+      <description>Accepted to TMLR 2023.
 How can we use AI assistants to generate metaphors?</description>
     </item>
     
@@ -76,17 +74,6 @@ How well do large language models perform on the MATH dataset?</description>
       <guid>http://friedeggs.github.io/papers/big-bench/</guid>
       <description>Accepted to TMLR 2023.
 How well do large language models perform on an unnatural in-context learning task?</description>
-    </item>
-    
-    <item>
-      <title>Siri NL Machine Learning Intern</title>
-      <link>http://friedeggs.github.io/work/siri-nl-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/siri-nl-2017/</guid>
-      <description>At Apple Campus in Cupertino, California, USA.
-endpreamble
-Developed an app to help data scientists visualize how AI models performed on text.</description>
     </item>
     
   </channel>

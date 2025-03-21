@@ -6,7 +6,7 @@
     <description>Recent content in hci on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
+    <copyright>© 2019–2025</copyright>
     <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
@@ -32,17 +32,8 @@
       <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/halie/</guid>
-      <description>Accepted to TMLR 2023
+      <description>Accepted to TMLR 2023.
 How can we use AI assistants to generate metaphors?</description>
-    </item>
-    
-    <item>
-      <title>amble: feed your creative curiosities</title>
-      <link>http://friedeggs.github.io/code/amble/</link>
-      <pubDate>Tue, 17 May 2022 22:19:54 -0700</pubDate>
-      
-      <guid>http://friedeggs.github.io/code/amble/</guid>
-      <description>&lt;p&gt;Our course project for &lt;a href=&#34;https://hci.stanford.edu/courses/cs147/2022/wi/index.html&#34; target=&#34;_blank&#34;&gt;CS147: Intro to Human-Computer Interaction&lt;/a&gt; with &lt;a href=&#34;https://www.landay.org/&#34; target=&#34;_blank&#34;&gt;James Landay&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

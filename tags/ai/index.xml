@@ -6,8 +6,35 @@
     <description>Recent content in ai on frieda rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019–2023</copyright>
-    <lastBuildDate>Sun, 02 Jun 2024 16:56:47 -0400</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSC 2541 Winter 2025: Large Models</title>
+      <link>http://friedeggs.github.io/service/large-models/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/large-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Conference 2024</title>
+      <link>http://friedeggs.github.io/service/rlc-2024/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/rlc-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogSci 2024</title>
+      <link>http://friedeggs.github.io/service/cogsci-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/service/cogsci-2024/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
       <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
@@ -27,51 +54,13 @@
     </item>
     
     <item>
-      <title>TEKsystems @ Meta Prompt Engineer - Math</title>
-      <link>http://friedeggs.github.io/work/meta-2024/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/meta-2024/</guid>
-      <description>Remote work in Toronto, Ontario, Canada.
-endpreamble
-Did contract work with TEKsystems on assignment at Meta (formerly Facebook).</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) Workshop</title>
-      <link>http://friedeggs.github.io/service/solar-2023/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/solar-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2023 MATH-AI Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai-2023/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>18th Women in Machine Learning Workshop (WiML 2023)</title>
-      <link>http://friedeggs.github.io/service/wiml-2023/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/wiml-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Value Internalization: Learning and Generalizing from Social Reward</title>
       <link>http://friedeggs.github.io/papers/social-play/</link>
       <pubDate>Sat, 07 Oct 2023 21:10:48 -0400</pubDate>
       
       <guid>http://friedeggs.github.io/papers/social-play/</guid>
-      <description>Accepted to CogSci 2024.
-How can AI agents learn intrinsic motivations from others and internalise social rewards?</description>
+      <description>Accepted to CogSci 2024 and Reinforcement Learning Conference 2024.
+How can AI agents learn motivations from others and internalise social rewards?</description>
     </item>
     
     <item>
@@ -100,17 +89,8 @@ How do human learners perform on a puzzle video game compared to AI learners?</d
       <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/halie/</guid>
-      <description>Accepted to TMLR 2023
+      <description>Accepted to TMLR 2023.
 How can we use AI assistants to generate metaphors?</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2022 MATH-AI Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai-2022/</link>
-      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai-2022/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -135,17 +115,6 @@ How well do large language models perform on the MATH dataset?</description>
     </item>
     
     <item>
-      <title>CSLI Mentor</title>
-      <link>http://friedeggs.github.io/work/csli-2022/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/csli-2022/</guid>
-      <description>The CSLI summer internship program at Stanford is an interdisciplinary research program for undergraduates interested in cognitive science.
-endpreamble
-Helped analyze video game data to study high-level player behavior through low-level game features.</description>
-    </item>
-    
-    <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
       <link>http://friedeggs.github.io/papers/big-bench/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
@@ -162,15 +131,6 @@ How well do large language models perform on an unnatural in-context learning ta
       
       <guid>http://friedeggs.github.io/talks/behavior-feedback/</guid>
       <description>&lt;p&gt;A project pitch for how smart agents can interact with us to better understand our goals in household activities by learning individual and cultural diversity.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2021 MATHAI4ED Workshop</title>
-      <link>http://friedeggs.github.io/service/mathai4ed-2021/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/service/mathai4ed-2021/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -201,8 +161,8 @@ What are the next steps in teaching foundation models formal reasoning and using
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/papers/geosim/</guid>
-      <description>Best Paper Candidate at CVPR 2021
-How do we combine the best of graphics-based simulation and neural rendering?</description>
+      <description>Best Paper Candidate at CVPR 2021.
+How do we combine the best of graphics-based simulation and neural reconstruction?</description>
     </item>
     
     <item>
@@ -215,65 +175,12 @@ How do we combine the best of graphics-based simulation and neural rendering?</d
     </item>
     
     <item>
-      <title>Uber ATG Research Scientist</title>
-      <link>http://friedeggs.github.io/work/uber-2020/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/uber-2020/</guid>
-      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
-endpreamble
-Demonstrated a data-driven pipeline for the photorealistic video simulation of cars inserted into urban driving scenes.</description>
-    </item>
-    
-    <item>
       <title>Variational Autoencoders</title>
       <link>http://friedeggs.github.io/talks/variational-autoencoders/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>http://friedeggs.github.io/talks/variational-autoencoders/</guid>
       <description>In addition to research and internship opportunities, I learned about AI through reading and summarizing blog posts and papers, then giving talks like this one.</description>
-    </item>
-    
-    <item>
-      <title>Uber ATG R&amp;D Intern</title>
-      <link>http://friedeggs.github.io/work/uber-2018/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/uber-2018/</guid>
-      <description>At Uber ATG Toronto (now Waabi) in Toronto, Ontario, Canada.
-endpreamble
-Implemented a hardcoded baseline for the photorealistic image simulation of cars inserted into urban driving scenes.</description>
-    </item>
-    
-    <item>
-      <title>Petuum Software Engineering Intern</title>
-      <link>http://friedeggs.github.io/work/petuum-2018/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/petuum-2018/</guid>
-      <description>At enterprise machine learning startup Petuum in Pittsburgh, Pennsylvania, USA.
-endpreamble
-Researched efficient distributed learning algorithms for neural networks and machine learning models.</description>
-    </item>
-    
-    <item>
-      <title>Siri NL Machine Learning Intern</title>
-      <link>http://friedeggs.github.io/work/siri-nl-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/work/siri-nl-2017/</guid>
-      <description>At Apple Campus in Cupertino, California, USA.
-endpreamble
-Developed an app to help data scientists visualize how AI models performed on text.</description>
-    </item>
-    
-    <item>
-      <title>Learning to compress neural networks in Caffe</title>
-      <link>http://friedeggs.github.io/code/caffe-compression/</link>
-      <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://friedeggs.github.io/code/caffe-compression/</guid>
-      <description>&lt;p&gt;A modified fork of the C++ deep learning framework &lt;a href=&#34;https://caffe.berkeleyvision.org/&#34; target=&#34;_blank&#34;&gt;Caffe&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
