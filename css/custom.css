@@ -239,7 +239,7 @@ body {
 
   .site-bar {
     display: flex;
-    gap: 60px;
+    gap: 20px;
     flex-wrap: wrap;
   }
 
