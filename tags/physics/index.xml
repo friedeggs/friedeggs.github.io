@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physics on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/physics/</link>
+    <description>Recent content in physics on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2025</copyright>
+    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluating artificial intelligence (AI) and human reasoning</title>
+      <link>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</guid>
+      <description>&lt;p&gt;A summary presentation of my work on evaluating &lt;a href=&#34;http://friedeggs.github.io/tags/reasoning&#34;&gt;reasoning&lt;/a&gt; across mathematics, creative writing, video games, and card games.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Generalization of Rules by Neural Nets &amp; Learning Networks of Neurons with Boolean Logic</title>
+      <link>http://friedeggs.github.io/talks/generalization-and-learning/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/talks/generalization-and-learning/</guid>
+      <description>&lt;p&gt;Over the pandemic, our computer science PhD cohort organized a fun, informal reading group to take us back to the classics.&lt;/p&gt;
+&lt;p&gt;endpreamble&lt;/p&gt;
+&lt;p&gt;Inspired by all the &lt;a target=&#34;_blank&#34; href=&#34;https://www.gwern.net/Scaling-hypothesis&#34;&gt;scaling laws&lt;/a&gt; excitement, I coded up a numerical simulation of neural networks before GPUs were popular for science and leaderboard points!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
