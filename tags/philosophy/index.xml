@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/philosophy/</link>
+    <description>Recent content in Philosophy on frieda rong</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2026</copyright>
+    <lastBuildDate>Sat, 07 Oct 2023 21:10:48 -0400</lastBuildDate>
+    <atom:link href="http://friedeggs.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Value Internalization: Learning and Generalizing from Social Reward</title>
+      <link>http://friedeggs.github.io/papers/social-play/</link>
+      <pubDate>Sat, 07 Oct 2023 21:10:48 -0400</pubDate>
+      <guid>http://friedeggs.github.io/papers/social-play/</guid>
+      <description>&lt;p&gt;Accepted to &lt;a href=&#34;https://cognitivesciencesociety.org/cogsci-2024/&#34; target=&#34;_blank&#34;&gt;CogSci 2024&lt;/a&gt; and &lt;a href=&#34;https://rl-conference.cc/&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning Conference 2024&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How can AI agents learn motivations from others and internalise social rewards?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

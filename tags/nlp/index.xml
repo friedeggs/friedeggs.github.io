@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nlp on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/nlp/</link>
+    <description>Recent content in Nlp on frieda rong</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2026</copyright>
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://friedeggs.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CogSci 2025</title>
+      <link>http://friedeggs.github.io/service/cogsci-2025/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/service/cogsci-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSC 2541 Winter 2025: Large Models</title>
+      <link>http://friedeggs.github.io/service/large-models/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/service/large-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CogSci 2024</title>
+      <link>http://friedeggs.github.io/service/cogsci-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/service/cogsci-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmarking and evaluation frameworks for reasoning in language models</title>
+      <link>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</link>
+      <pubDate>Sun, 02 Jun 2024 16:56:47 -0400</pubDate>
+      <guid>http://friedeggs.github.io/talks/benchmarking-evaluation-frameworks/</guid>
+      <description>&lt;p&gt;A version of the talk given to DGP catered towards self-driving cars.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluating artificial intelligence (AI) and human reasoning</title>
+      <link>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/talks/evaluating-ai-human-reasoning/</guid>
+      <description>&lt;p&gt;A summary presentation of my work on evaluating &lt;a href=&#34;http://friedeggs.github.io/tags/reasoning&#34;&gt;reasoning&lt;/a&gt; across mathematics, creative writing, video games, and card games.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluating Human-Language Model Interaction</title>
+      <link>http://friedeggs.github.io/papers/halie/</link>
+      <pubDate>Mon, 19 Dec 2022 01:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/papers/halie/</guid>
+      <description>&lt;p&gt;Accepted to TMLR 2023.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How can we use AI assistants to generate metaphors?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Holistic Evaluation of Language Models</title>
+      <link>http://friedeggs.github.io/papers/helm/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/papers/helm/</guid>
+      <description>&lt;small&gt;&#xA;†: lead authors&lt;br&gt;&#xA;*: major contributors&#xA;&lt;/small&gt;&#xA;&lt;p&gt;endpreamble&lt;/p&gt;&#xA;&lt;p&gt;Accepted to TMLR 2023.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How well do large language models perform on the MATH dataset?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
+      <link>http://friedeggs.github.io/papers/big-bench/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/papers/big-bench/</guid>
+      <description>&lt;p&gt;Accepted to TMLR 2023.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How well do large language models perform on an unnatural in-context learning task?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

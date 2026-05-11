@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on frieda rong</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2026</copyright>
+    <lastBuildDate>Mon, 02 Feb 2026 00:28:14 -0500</lastBuildDate>
+    <atom:link href="http://friedeggs.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traffic Scenario Orchestration from Language via Constraint Satisfaction</title>
+      <link>http://friedeggs.github.io/papers/scenario-orchestration/</link>
+      <pubDate>Mon, 02 Feb 2026 00:28:14 -0500</pubDate>
+      <guid>http://friedeggs.github.io/papers/scenario-orchestration/</guid>
+      <description>&lt;p&gt;Poster at &lt;a href=&#34;https://2026.ieee-icra.org/&#34; target=&#34;_blank&#34;&gt;ICRA 2026&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How can we translate textual descriptions of traffic scenarios into reactive simulations?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BEHAVIOR feedback: a benchmark for social perception</title>
+      <link>http://friedeggs.github.io/talks/behavior-feedback/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/talks/behavior-feedback/</guid>
+      <description>&lt;p&gt;A project pitch for how smart agents can interact with us to better understand our goals in household activities by learning individual and cultural diversity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving</title>
+      <link>http://friedeggs.github.io/papers/geosim/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/papers/geosim/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color: #ff0000&#34;&gt;Best Paper Candidate&lt;/span&gt;&lt;/strong&gt; at &lt;a href=&#34;https://cvpr2021.thecvf.com/&#34; target=&#34;_blank&#34;&gt;CVPR 2021&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How can we visually insert a moving vehicle into an annotated video of vehicles driving on the road?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

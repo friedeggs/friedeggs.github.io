@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ml on frieda rong</title>
+    <link>http://friedeggs.github.io/tags/ml/</link>
+    <description>Recent content in Ml on frieda rong</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2019–2026</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://friedeggs.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSC 2541 Winter 2025: Large Models</title>
+      <link>http://friedeggs.github.io/service/large-models/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/service/large-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Characterizing Learning Progress of Problem-Solvers Using Puzzle-Solving Log Data</title>
+      <link>http://friedeggs.github.io/papers/learning-progress/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/papers/learning-progress/</guid>
+      <description>&lt;p&gt;Demo paper at &lt;a href=&#34;https://educationaldatamining.org/edm2023/&#34; target=&#34;_blank&#34;&gt;EDM 2023&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;How do human learners perform on a puzzle video game compared to AI learners?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Factor Analysis for Baba is AI</title>
+      <link>http://friedeggs.github.io/talks/factor-analysis-for-baba-is-ai/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/talks/factor-analysis-for-baba-is-ai/</guid>
+      <description>&lt;p&gt;A tutorial for education and machine learning researchers on using &lt;a target=&#34;_blank&#34; href=&#34;https://wikipedia.org/wiki/Factor_analysis&#34;&gt;factor analysis&lt;/a&gt; to analyze data for an in-progress research project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion) paper review</title>
+      <link>http://friedeggs.github.io/talks/ddpm-review/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/talks/ddpm-review/</guid>
+      <description>&lt;p&gt;As graciously explained to me by one of the authors, &lt;a target=&#34;_blank&#34; href=&#34;https://www.ajayjain.net&#34;&gt;Ajay Jain&lt;/a&gt;. (Any errors are mine!)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intro to Statistics for Data Science / Machine Learning</title>
+      <link>http://friedeggs.github.io/talks/intro-to-statistics/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://friedeggs.github.io/talks/intro-to-statistics/</guid>
+      <description>&lt;p&gt;The second of two talks on linear algebra and statistics in machine learning, joint with &lt;a target=&#34;_blank&#34; href=&#34;https://anzoteh96.github.io/&#34;&gt;Anzo Teh&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
