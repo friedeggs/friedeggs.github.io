@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on frieda rong</title>
+    <link>http://friedeggs.github.io/publications/</link>
+    <description>Recent content in Publications on frieda rong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-2022</copyright>
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://friedeggs.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holistic Evaluation of Language Models</title>
+      <link>http://friedeggs.github.io/publications/helm/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/helm/</guid>
+      <description>†: lead authors
+*: major contributors  endpreamble</description>
+    </item>
+    
+    <item>
+      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
+      <link>http://friedeggs.github.io/publications/big-bench/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/big-bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Opportunities and Risks of Foundation Models</title>
+      <link>http://friedeggs.github.io/publications/foundation-models/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/foundation-models/</guid>
+      <description>Please cite using these guidelines.
+endpreamble</description>
+    </item>
+    
+    <item>
+      <title>GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving</title>
+      <link>http://friedeggs.github.io/publications/geosim/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://friedeggs.github.io/publications/geosim/</guid>
+      <description>Best Paper Candidate at CVPR 2021</description>
+    </item>
+    
+  </channel>
+</rss>
